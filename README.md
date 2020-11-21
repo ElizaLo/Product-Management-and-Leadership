@@ -15,6 +15,7 @@
 - Jackie Bavaro’s Quora page: [‘The Art of Product Management’](https://www.theinformation.com/subscribers-say-sequoia-benchmark-are-valleys-top-vc-firm?shared=585c19fe0f211fd2)
 - Go to Stellar Peers: a community platform that helps you prepare for interviews. They have [sample questions and answers](http://stellarpeers.com/) on their site.
 - Go to [thepminterview.com](http://thepminterview.com/) to practice some of the above questions and answers with a timer.
+- [Interview Preparation](https://medium.com/open-product-management/interview-prep/home)
 
 ## CV
 
@@ -76,6 +77,11 @@ PM interview:
 - [ ] [Conversion Rate Optimization](https://vwo.com/conversion-rate-optimization/)
 - [ ] [How to Create a Website Conversion Funnel](https://www.crazyegg.com/blog/website-conversion-funnel/)
 
+-----------------------
+
+- [Hiring](https://medium.com/open-product-management/tagged/hiring)  
+
+
 ## Advice for someone interested in getting into Product Management:
 
 - **Talk to other Product Managers:** It's valuable to hear a first hand perspective -- what they enjoy, the biggest challenges, etc.
@@ -118,3 +124,5 @@ PM interview:
   - [Women 2.0](https://women2.com/) (more engineering focused but there’s the occasional PM role in there too)
   - [Advancing Women in Product](https://www.facebook.com/advancingwomeninproduct/)
 - Twitter, LinkedIn, Product School, Product Tank, Product Hunt, On Deck Daily, some sub-reddits, etc.
+- [Job Search](https://producthired.com/find-a-job/)
+
