@@ -60,14 +60,28 @@ PM interview:
 **Consider the following best practices:**
 
 1. **Clearly define the problem and the objectives**
-  - Make sure you understand the problem upfront. Candidates will sometimes latch on to a small part of the prompt that they heard and spend a lot of time going down an obscure path.
-  - You should restate the problem and your assumptions about that problem in your own words and confirm it with the interviewer.
+    - Make sure you understand the problem upfront. Candidates will sometimes latch on to a small part of the prompt that they heard and spend a lot of time going down an obscure path.
+    - You should restate the problem and your assumptions about that problem in your own words and confirm it with the interviewer.
+    - State any key assumptions you are making and ask follow up questions to clarify.
 2. **Communicate your approach and provide some structure**
-  - Think and communicate how you are going to structure the problem before diving into it. The primary goal of case questions is to evaluate your problem solving process and abilities, not to evaluate whether you got to the correct answer. In many cases, there is no single correct answer.
-  - Creating some structure around the problem is not only a good way to demonstrate that this is how you approach problems, but it is also a helpful interview tool. If you start by outlining your approach, you are less likely to forget to cover a certain aspect.
-3. **At each part of the problem, start broad and then narrow in**
-  - At each part of the process that you’ve structured, start by brainstorming several different options, and then use some stated criteria to prioritize and narrow in.
-  - You want to make sure you consider a wide range of options and show that you can think creatively, but also that you know when to focus on the most promising option. Both are critical parts of the product management process.
+    - Think and communicate how you are going to structure the problem before diving into it. The primary goal of case questions is to evaluate your problem solving process and abilities, not to evaluate whether you got to the correct answer. In many cases, there is no single correct answer.
+    - Creating some structure around the problem is not only a good way to demonstrate that this is how you approach problems, but it is also a helpful interview tool. If you start by outlining your approach, you are less likely to forget to cover a certain aspect.
+3. **Have a clear methodology**
+    - There are many prioritization models out there (e.g. the RICE model). Find one or two that resonate with you and be prepared to use them, since prioritization questions are quite common in Product Manager interviews.
+4. **At each part of the problem, start broad and then narrow in**
+    - At each part of the process that you’ve structured, start by brainstorming several different options, and then use some stated criteria to prioritize and narrow in.
+    - You want to make sure you consider a wide range of options and show that you can think creatively, but also that you know when to focus on the most promising option. Both are critical parts of the product management process.
+5. **State your approach at the outset**
+    - Structure is critical - provide some outline upfront for how you plan to attack the problem.
+ 
+### Prioritization 
+
+There are many factors that can go into prioritization. Some common ones includes: 
+1) Engineering Effort 
+2) Revenue Impact 
+3) Customer Satisfaction 
+4) Competitive Advantage 
+5) Mission Alignment
 
 ### Also
 
