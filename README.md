@@ -3,7 +3,8 @@
 ## Best interview preparation books
 
 - ["Cracking the PM Interview: How to Land a Product Manager Job in Technology"](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) by Gayle Laakmann McDowell
-- []()
+- ["The Product Manager Interview: 164 Actual Questions and Answers"](https://www.amazon.com/Product-Manager-Interview-Questions-Answers/dp/0998120448) by Lewis C. Lin
+- ["Decode and Conquer: Answers to Product Management Interviews"](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) by Lewis C. Lin
 
 ## Read 
 
