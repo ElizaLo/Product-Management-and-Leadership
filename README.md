@@ -55,6 +55,20 @@ PM interview:
 
 - There are [multiple sites that give you example behavioral questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews), but at the least, cover the basics: _Why you? Why this company? Why this role? What’s your expectation? What’s your biggest success? What’s your biggest failure? and How do you cope with a bad manager?_
 
+### Key Takeaways
+
+**Consider the following best practices:**
+
+1. **Clearly define the problem and the objectives**
+  - Make sure you understand the problem upfront. Candidates will sometimes latch on to a small part of the prompt that they heard and spend a lot of time going down an obscure path.
+  - You should restate the problem and your assumptions about that problem in your own words and confirm it with the interviewer.
+2. **Communicate your approach and provide some structure**
+  - Think and communicate how you are going to structure the problem before diving into it. The primary goal of case questions is to evaluate your problem solving process and abilities, not to evaluate whether you got to the correct answer. In many cases, there is no single correct answer.
+  - Creating some structure around the problem is not only a good way to demonstrate that this is how you approach problems, but it is also a helpful interview tool. If you start by outlining your approach, you are less likely to forget to cover a certain aspect.
+3. **At each part of the problem, start broad and then narrow in**
+  - At each part of the process that you’ve structured, start by brainstorming several different options, and then use some stated criteria to prioritize and narrow in.
+  - You want to make sure you consider a wide range of options and show that you can think creatively, but also that you know when to focus on the most promising option. Both are critical parts of the product management process.
+
 ### Also
 
 - **Stock options:** If you’re in the US, working for a startup, you need to know about how companies are funded and how stock options work. That’s tricky territory not easy to explain in a summary other than to say “get clued up about finance because it’s your money and future we’re talking about.” Regardless of gender, ignorance is not cool. If you’re curious about the employer perspective on stock options for employees, I recommend Fred Wilson’s [MBA Mondays](http://avc.com/archive/#mba_mondays_archive) posts from back in 2010, particularly the ones on [“How Much?”](http://avc.com/2010/11/employee-equity-how-much/), [Vesting](http://avc.com/2010/11/employee-equity-vesting/), [Restricted Stock and RSUs](http://avc.com/2010/11/employee-equity-restricted-stock-and-rsus/) and [Options](http://avc.com/2010/10/employee-equity-options/).
