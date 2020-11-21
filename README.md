@@ -98,6 +98,8 @@ There are many factors that can go into prioritization. Some common ones include
 - [ ] A [HackerNoon](https://hackernoon.com/how-to-prepare-for-a-product-manager-interview-6204b1ba5d6d) post on how to prepare for a Product Manager interview
 - [ ] This [blog post](https://igotanoffer.com/blogs/product-manager/product-strategy-interview-questions) highlights a recommended four-step approach
 - [ ] Watch another [product strategy mock interview](https://www.youtube.com/watch?v=1dj0zA7jlGc) with a LinkedIn PM, including a follow up discussion of best practices
+- [ ] This [productboard article](https://www.productboard.com/glossary/product-prioritization-frameworks/) that discusses various product prioritization frameworks used in industry
+- [ ] This [article](https://medium.com/@freshtilledsoil/how-to-prioritize-product-features-and-improvements-8aea72c8bf27) lays out a three-pronged approach to prioritize product features and improvements
 
 **Conversion Funnel Analysis:**
 
