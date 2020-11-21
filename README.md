@@ -84,6 +84,7 @@
 
 - **Slack Community For Product Managers**:
   - [Product School](https://www.productschool.com/slack-community/)
+  - {Slack Channel created by Lewis Lin](https://www.lewis-lin.com/blog/2018/7/8/lewis-c-lins-slack-community), which already has over 5000 people looking for mock practice partners
 - [FirstRound Talent](http://first%20round%20jobs) (by invitation only)
 - [Ken Norton’s](https://www.kennorton.com/jobs/) blog and newsletter (specifically in the [GV](http://googleventures.com/) portfolio)
 - **Women’s communities:**
