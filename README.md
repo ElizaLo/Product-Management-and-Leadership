@@ -63,16 +63,24 @@ PM interview:
     - Make sure you understand the problem upfront. Candidates will sometimes latch on to a small part of the prompt that they heard and spend a lot of time going down an obscure path.
     - You should restate the problem and your assumptions about that problem in your own words and confirm it with the interviewer.
     - State any key assumptions you are making and ask follow up questions to clarify.
-2. **Communicate your approach and provide some structure**
+2. **Start with user needs**
+    - No matter the type of problem, keep the needs of your users first.
+3. **Communicate your approach and provide some structure**
     - Think and communicate how you are going to structure the problem before diving into it. The primary goal of case questions is to evaluate your problem solving process and abilities, not to evaluate whether you got to the correct answer. In many cases, there is no single correct answer.
     - Creating some structure around the problem is not only a good way to demonstrate that this is how you approach problems, but it is also a helpful interview tool. If you start by outlining your approach, you are less likely to forget to cover a certain aspect.
-3. **Have a clear methodology**
+4. **Have a clear methodology**
     - There are many prioritization models out there (e.g. the RICE model). Find one or two that resonate with you and be prepared to use them, since prioritization questions are quite common in Product Manager interviews.
-4. **At each part of the problem, start broad and then narrow in**
+5. **At each part of the problem, start broad and then narrow in**
     - At each part of the process that you’ve structured, start by brainstorming several different options, and then use some stated criteria to prioritize and narrow in.
     - You want to make sure you consider a wide range of options and show that you can think creatively, but also that you know when to focus on the most promising option. Both are critical parts of the product management process.
-5. **State your approach at the outset**
+6. **State your approach at the outset**
     - Structure is critical - provide some outline upfront for how you plan to attack the problem.
+7. **Gain familiarity of common technical solutions**
+    - It’s valuable to have a basic architectural understanding of some well known products -- for example Google Search and Facebook Newsfeed.
+8. **Understand the differences between mobile and desktop applications**
+    - In preparation for your interview, review the key differences and considerations when building an application for mobile vs desktop. This is particularly important if the company you are interviewing with has a mobile product.
+9. **Study the technology of the company you are interviewing with.**
+    - Prior to the interview, gain a basic familiarity with the company’s key technology. This preparation will not only help you answer questions you are asked, but can also inspire questions for you to ask the interviewer.
  
 ### Prioritization 
 
@@ -100,6 +108,8 @@ There are many factors that can go into prioritization. Some common ones include
 - [ ] Watch another [product strategy mock interview](https://www.youtube.com/watch?v=1dj0zA7jlGc) with a LinkedIn PM, including a follow up discussion of best practices
 - [ ] This [productboard article](https://www.productboard.com/glossary/product-prioritization-frameworks/) that discusses various product prioritization frameworks used in industry
 - [ ] This [article](https://medium.com/@freshtilledsoil/how-to-prioritize-product-features-and-improvements-8aea72c8bf27) lays out a three-pronged approach to prioritize product features and improvements
+- [ ] View this [article](https://igotanoffer.com/blogs/product-manager/technical-interview-questions) that highlights a recommended three-step approach for questions that involve client-server relationships and back-end structure of algorithms
+- [ ] Watch another [technical mock interview](https://www.youtube.com/watch?v=3MsWDQJmYOE) with a Google PM, including a follow up discussion of best practices
 
 **Conversion Funnel Analysis:**
 
