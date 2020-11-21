@@ -6,6 +6,22 @@
 - ["The Product Manager Interview: 164 Actual Questions and Answers"](https://www.amazon.com/Product-Manager-Interview-Questions-Answers/dp/0998120448) by Lewis C. Lin
 - ["Decode and Conquer: Answers to Product Management Interviews"](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) by Lewis C. Lin
 
+### Free stuff 
+
+- Go to Lewis C. Lin’s website: [90 Product Manager Interview Questions](https://www.impactinterview.com/2017/01/big-list-90-product-manager-interview-questions/)
+- Jackie Bavaro’s Quora page: [‘The Art of Product Management’](https://www.theinformation.com/subscribers-say-sequoia-benchmark-are-valleys-top-vc-firm?shared=585c19fe0f211fd2)
+- Go to Stellar Peers: a community platform that helps you prepare for interviews. They have [sample questions and answers](http://stellarpeers.com/) on their site.
+- Go to [thepminterview.com](http://thepminterview.com/) to practice some of the above questions and answers with a timer.
+
+## CV
+
+- [“My Personal Formula for a Winning Resume”](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/) by Laszlo Bock
+- 
+
+## Best way to write a cover letter
+
+- The Muse has some [“standout” examples](https://www.themuse.com/advice/31-attentiongrabbing-cover-letter-examples) that I would not use but you can start to see what grabs attention.
+
 ## Read 
 
 - [ ] [Оптимизация ставок: зависимость между ценой клика и установленной ставкой](https://habr.com/ru/company/calltouch/blog/341390/)
@@ -62,3 +78,4 @@
     - [Women in Product](https://www.facebook.com/groups/womeninproduct/) Facebook group
   - [Women 2.0](https://women2.com/) (more engineering focused but there’s the occasional PM role in there too)
   - [Advancing Women in Product](https://www.facebook.com/advancingwomeninproduct/)
+- Twitter, LinkedIn, Product School, Product Tank, Product Hunt, On Deck Daily, some sub-reddits, etc.
