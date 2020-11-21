@@ -5,6 +5,9 @@
 - ["Cracking the PM Interview: How to Land a Product Manager Job in Technology"](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) by Gayle Laakmann McDowell
 - ["The Product Manager Interview: 164 Actual Questions and Answers"](https://www.amazon.com/Product-Manager-Interview-Questions-Answers/dp/0998120448) by Lewis C. Lin
 - ["Decode and Conquer: Answers to Product Management Interviews"](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) by Lewis C. Lin
+- ["The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback"](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) by Dan Olsen
+- ["Swipe to Unlock: The Primer on Technology and Business Strategy"](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K) by Parth Detroja
+- ["In the Plex: How Google Thinks, Works, and Shapes Our Lives"](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585) by Steven Levy
 
 ### Free stuff 
 
@@ -26,8 +29,30 @@
 
 - **_Be ready to talk about your favorite physical/digital product_** for yourself or for other people and do a proper “product tear-down”. Use the **[‘CIRCLES’ method](https://www.impactinterview.com/2016/08/circles-method-product-design-framework/) from Lewis Lin**, by far the most useful mental model.
 - **Know the “SAR” (or STAR or SPAR or similar) structure and the “pyramid principle”** for organising your thoughts and answers. S, T, P, A, R refer to situation, task (or problem), action, result. Basically: some context, what was the problem, what did you do about it, and what happened? The **[pyramid principle](https://www.amazon.com/Minto-Pyramid-Principle-Writing-Thinking/dp/0960191038) developed by Barbara Minto**, a consultant, refers to grouping your answers into themes that are easier to digest.
+- It also helps to know a few frameworks — [3C, 4P, Porter’s 5 forces, Market Entry, etc at the back of your mind](http://www.streetofwalls.com/finance-training-courses/consulting-case-study-training/consulting-case-study-101-frameworks/).
 
 ## Interview
+
+PM interview: 
+- Design
+- Strategy
+- Estimation
+- Behavioral
+- Technical
+
+### Estimation
+
+- **Learn hard facts:** I know I said you don’t need to know the answers to the questions, but let me rephrase that. While you don’t need to memorize the answers, it’s crucial to know certain ubiquitous numbers. Let’s say you’re interviewing for Google. What is the market share of Google Search? How much of the pie does Google Cloud Platform have? What was Google’s revenue and profit in 2017? Knowing these numbers, and more, helps more than you’d think. [To make your life easier, here is a short (and shabby) fact sheet I created while preparing](https://docs.google.com/document/d/1K9vukl5730pxl-n8jR9Xu0X1FXMf5Dk4dGee3_RiDVQ/edit?usp=sharing).
+
+### Technical
+
+- **Data Structures and Algorithms:** _GeeksforGeeks_ was my best friend here. I went through all the [sorting algorithms](https://betterexplained.com/articles/sorting-algorithms/) and basic [data structures](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6) used. Also brush up your CS fundamentals: OOPS concepts, [Networking frameworks](https://www.webopedia.com/quick_ref/OSI_Layers.asp), how internet works, how WiFi works, what are the different protocols used and so on. Remember, you have to be so well-versed such that you can explain all this even to a 5 year old. To make lives easier, [here’s the word doc I used while preparing](https://drive.google.com/file/d/1BryNH_vXt7PU0I4zbKvDOkZHwDijvlJI/view?usp=sharing), use this and keep adding more.
+- **System Design:** Ooh, we've hit bulls eye. Most people either don’t prepare or don’t prepare enough for this. Avoid that mistake, and use this [GitHub repo as your Bible or Quran or Bhagavad Gita](https://github.com/donnemartin/system-design-primer). Donne has done a brilliant job of breaking down everything needed. But no need to delve too deep; just practice the ten example questions given first.
+- **Pseudocoding:** _Leetcode_ and a brilliant engineer friend of mine were my strongest pillars. I did not spend a lot of time here, as I knew they wouldn’t ask anything too crazy. If you’re well versed with coding, this should not be a hard section. Just make sure to enunciate, brute force first, optimize next and check for edge cases. [This YouTube channel by Kevin Naughton is super, super useful](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g).
+
+### Behavioral
+
+- There are [multiple sites that give you example behavioral questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews), but at the least, cover the basics: _Why you? Why this company? Why this role? What’s your expectation? What’s your biggest success? What’s your biggest failure? and How do you cope with a bad manager?_
 
 ### Also
 
