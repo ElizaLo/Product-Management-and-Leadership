@@ -22,6 +22,19 @@
 
 - The Muse has some [“standout” examples](https://www.themuse.com/advice/31-attentiongrabbing-cover-letter-examples) that I would not use but you can start to see what grabs attention.
 
+## Best advice on how to prepare for questions
+
+- **_Be ready to talk about your favorite physical/digital product_** for yourself or for other people and do a proper “product tear-down”. Use the **[‘CIRCLES’ method](https://www.impactinterview.com/2016/08/circles-method-product-design-framework/) from Lewis Lin**, by far the most useful mental model.
+- **Know the “SAR” (or STAR or SPAR or similar) structure and the “pyramid principle”** for organising your thoughts and answers. S, T, P, A, R refer to situation, task (or problem), action, result. Basically: some context, what was the problem, what did you do about it, and what happened? The **[pyramid principle](https://www.amazon.com/Minto-Pyramid-Principle-Writing-Thinking/dp/0960191038) developed by Barbara Minto**, a consultant, refers to grouping your answers into themes that are easier to digest.
+
+## Interview
+
+### Also
+
+- **Stock options:** If you’re in the US, working for a startup, you need to know about how companies are funded and how stock options work. That’s tricky territory not easy to explain in a summary other than to say “get clued up about finance because it’s your money and future we’re talking about.” Regardless of gender, ignorance is not cool. If you’re curious about the employer perspective on stock options for employees, I recommend Fred Wilson’s [MBA Mondays](http://avc.com/archive/#mba_mondays_archive) posts from back in 2010, particularly the ones on [“How Much?”](http://avc.com/2010/11/employee-equity-how-much/), [Vesting](http://avc.com/2010/11/employee-equity-vesting/), [Restricted Stock and RSUs](http://avc.com/2010/11/employee-equity-restricted-stock-and-rsus/) and [Options](http://avc.com/2010/10/employee-equity-options/).
+- **For all other negotiations (money, time, flexibility):** I found that [Josh Doody](http://www.joshdoody.com/) had some helpful advice for how to think about negotiations. His newsletters are informative but you can [read his book too](https://www.amazon.com/Fearless-Salary-Negotiation-step-step/dp/0692568689).
+- **For women in particular**, Anna Marie Clifton wrote a long post about how [she negotiated for an additional $15,000 at Yammer](https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec). [Silence](https://www.fastcompany.com/3049676/a-womans-most-powerful-salary-negotiation-tool-silence) can be a great ally in negotiations, and it’s useful to learn how to wield it.
+
 ## Read 
 
 - [ ] [Оптимизация ставок: зависимость между ценой клика и установленной ставкой](https://habr.com/ru/company/calltouch/blog/341390/)
