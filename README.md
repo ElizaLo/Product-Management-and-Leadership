@@ -79,9 +79,11 @@ PM interview:
 
 - [ ] [Оптимизация ставок: зависимость между ценой клика и установленной ставкой](https://habr.com/ru/company/calltouch/blog/341390/)
 - [ ] [Теоретико-информационный подход к анализу воронки продаж в контекстной рекламе](https://habr.com/ru/company/calltouch/blog/340332/)
-- [ ] This [blog post](https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba) that describes the job hunting process of landing an SF-based Product Manager role
-- [ ] This [article](https://medium.com/open-product-management/how-to-crush-your-product-management-interview-ultimate-guide-for-all-aspiring-pms-8c6172ed697c) written by a Product Manager that had experience interviewing with some of the biggest tech companies in Silicon Valley, including Salesforce, Google, Dropbox, and Facebook
+- [x] This [blog post](https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba) that describes the job hunting process of landing an SF-based Product Manager role
+- [x] This [article](https://medium.com/open-product-management/how-to-crush-your-product-management-interview-ultimate-guide-for-all-aspiring-pms-8c6172ed697c) written by a Product Manager that had experience interviewing with some of the biggest tech companies in Silicon Valley, including Salesforce, Google, Dropbox, and Facebook
 - [ ] A [HackerNoon](https://hackernoon.com/how-to-prepare-for-a-product-manager-interview-6204b1ba5d6d) post on how to prepare for a Product Manager interview
+- [ ] This [blog post](https://igotanoffer.com/blogs/product-manager/product-strategy-interview-questions) highlights a recommended four-step approach
+- [ ] Watch another [product strategy mock interview](https://www.youtube.com/watch?v=1dj0zA7jlGc) with a LinkedIn PM, including a follow up discussion of best practices
 
 **Conversion Funnel Analysis:**
 
