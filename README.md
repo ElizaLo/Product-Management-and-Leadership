@@ -41,6 +41,18 @@ PM interview:
 - Behavioral
 - Technical
 
+### Startegy
+
+### Additional Product Strategy Practice Interview Questions
+
+The best way to get better at Product Manager interviews is by actually doing them. You can practice by yourself out loud or even better with someone else. Here are some sample interview questions to get you started:
+
+- How would you increase YouTube’s daily active users ?
+- What are some ideas for improving mentorship on the LinkedIn platform?
+- What is your favorite product and why?
+- Start a new product category for Amazon -- what would you choose and why?
+- If you want to launch a new social networking product, what are the primary considerations?
+
 ### Estimation
 
 - **Learn hard facts:** I know I said you don’t need to know the answers to the questions, but let me rephrase that. While you don’t need to memorize the answers, it’s crucial to know certain ubiquitous numbers. Let’s say you’re interviewing for Google. What is the market share of Google Search? How much of the pie does Google Cloud Platform have? What was Google’s revenue and profit in 2017? Knowing these numbers, and more, helps more than you’d think. [To make your life easier, here is a short (and shabby) fact sheet I created while preparing](https://docs.google.com/document/d/1K9vukl5730pxl-n8jR9Xu0X1FXMf5Dk4dGee3_RiDVQ/edit?usp=sharing).
@@ -50,6 +62,18 @@ PM interview:
 - **Data Structures and Algorithms:** _GeeksforGeeks_ was my best friend here. I went through all the [sorting algorithms](https://betterexplained.com/articles/sorting-algorithms/) and basic [data structures](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6) used. Also brush up your CS fundamentals: OOPS concepts, [Networking frameworks](https://www.webopedia.com/quick_ref/OSI_Layers.asp), how internet works, how WiFi works, what are the different protocols used and so on. Remember, you have to be so well-versed such that you can explain all this even to a 5 year old. To make lives easier, [here’s the word doc I used while preparing](https://drive.google.com/file/d/1BryNH_vXt7PU0I4zbKvDOkZHwDijvlJI/view?usp=sharing), use this and keep adding more.
 - **System Design:** Ooh, we've hit bulls eye. Most people either don’t prepare or don’t prepare enough for this. Avoid that mistake, and use this [GitHub repo as your Bible or Quran or Bhagavad Gita](https://github.com/donnemartin/system-design-primer). Donne has done a brilliant job of breaking down everything needed. But no need to delve too deep; just practice the ten example questions given first.
 - **Pseudocoding:** _Leetcode_ and a brilliant engineer friend of mine were my strongest pillars. I did not spend a lot of time here, as I knew they wouldn’t ask anything too crazy. If you’re well versed with coding, this should not be a hard section. Just make sure to enunciate, brute force first, optimize next and check for edge cases. [This YouTube channel by Kevin Naughton is super, super useful](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g).
+
+### Additional Technical Practice Interview Questions
+
+The best way to get better at Product Manager interviews is by actually doing them. You can practice by yourself out loud or even better with someone else. Here are some sample interview questions to get you started:
+
+- You are part of the Google Search web spam team. How would you detect duplicate websites?
+- What are some of the technical challenges with building a system to help restaurants receive orders electronically?
+- Facebook recently identified that mobile app users in 3rd world countries with significantly lower bandwidth have a poor user experience. How would you reduce bandwidth consumption across Facebook’s mobile app?
+- If you were the Product Manager for Gmail, how would you reduce the storage size on Gmail servers?
+- How do you monitor performance and measure success of a recently launched product/service ?
+- How do you gain credibility from the development / engineering teams as a new product manager?
+- What is the importance of engineering and technical teams as stakeholders ? How do you integrate them into the overall product vision?
 
 ### Behavioral
 
