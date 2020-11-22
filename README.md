@@ -181,7 +181,7 @@ There are many factors that can go into prioritization. Some common ones include
 
 - **Slack Community For Product Managers**:
   - [Product School](https://www.productschool.com/slack-community/)
-  - {Slack Channel created by Lewis Lin](https://www.lewis-lin.com/blog/2018/7/8/lewis-c-lins-slack-community), which already has over 5000 people looking for mock practice partners
+  - [Slack Channel created by Lewis Lin](https://www.lewis-lin.com/blog/2018/7/8/lewis-c-lins-slack-community), which already has over 5000 people looking for mock practice partners
 - [FirstRound Talent](http://first%20round%20jobs) (by invitation only)
 - [Ken Norton’s](https://www.kennorton.com/jobs/) blog and newsletter (specifically in the [GV](http://googleventures.com/) portfolio)
 - **Women’s communities:**
@@ -192,3 +192,19 @@ There are many factors that can go into prioritization. Some common ones include
 - Twitter, LinkedIn, Product School, Product Tank, Product Hunt, On Deck Daily, some sub-reddits, etc.
 - [Job Search](https://producthired.com/find-a-job/)
 
+-----------------------------
+
+# Growth Product Manager
+
+Growth Product Manager is a relatively new role within the Product Management domain. Some aspects of a Growth Product Manager role that are unique and exciting:
+- **Tinkering is key:** Growth Product Managers are constantly trying new experiments, testing new ideas, and doing many of these at once.
+- **New experiments more than new features:** Growth Product Managers focus on how to get more customers to use existing features. A major challenge is identifying and experimenting new ways for customer adoption.
+- **Quantity, not just quality:** Sometimes in Product Management, the focus will be on building a small set of very high quality features to address customer needs. As a Growth Product Manager, quantity is critical -- you need to test a lot of ideas at once.
+
+# VP of Product
+
+Examples of her day-to-day role as the VP of Product, including:
+- Morning review of emails to identify which need urgent attention
+- Looking at product metrics to see the direction her products are headed
+- Structuring her day to spend time on day-to-day tactical work as well as long term strategic thinking
+- Balancing the various requests that come to her (e.g. production bugs, sales team requests, customers feature requests, etc)
