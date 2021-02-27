@@ -9,6 +9,14 @@
 - ["Swipe to Unlock: The Primer on Technology and Business Strategy"](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K) by Parth Detroja
 - ["In the Plex: How Google Thinks, Works, and Shapes Our Lives"](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585) by Steven Levy
 
+### Other books
+
+- [Rise above the noise](http://www.amazon.com/Rise-Above-Noise-Marketing-Interview/dp/0615978428)
+- [Interview math](http://www.amazon.com/Interview-Math-Problems-Solutions-Questions/dp/0692361472)
+- [Thinkertoys](http://www.amazon.com/Thinkertoys-Handbook-Creative-Thinking-Techniques-Edition/dp/1580087736)
+- [Web UI design patterns](http://bit.ly/1F4NvLt)
+- [Mobile UI design patterns](http://bit.ly/1F4NsPU)
+
 ### Free stuff 
 
 - Go to Lewis C. Lin’s website: [90 Product Manager Interview Questions](https://www.impactinterview.com/2017/01/big-list-90-product-manager-interview-questions/)
@@ -16,6 +24,14 @@
 - Go to Stellar Peers: a community platform that helps you prepare for interviews. They have [sample questions and answers](http://stellarpeers.com/) on their site.
 - Go to [thepminterview.com](http://thepminterview.com/) to practice some of the above questions and answers with a timer.
 - [Interview Preparation](https://medium.com/open-product-management/interview-prep/home)
+
+## Online Resources
+
+- [Lewis Lin Courses](http://www.lewis-lin.com/courses/)
+- [Cracking the PM interview (video)](https://www.youtube.com/watch?v=CshJxTcsgvo)
+- [How to ace the software engineering interview (video)](http://j.mp/SWEngClass)
+- [Quora](https://www.quora.com/What-should-I-expect-in-a-product-manager-interview-at-Google-and-how-should-I-prepare)
+- [Glassdoor](https://www.glassdoor.com/Interview/product-manager-interview-questions-SRCH_KO0,15.htm)
 
 ## CV
 
@@ -62,6 +78,8 @@ The best way to get better at Product Manager interviews is by actually doing th
 - **Data Structures and Algorithms:** _GeeksforGeeks_ was my best friend here. I went through all the [sorting algorithms](https://betterexplained.com/articles/sorting-algorithms/) and basic [data structures](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6) used. Also brush up your CS fundamentals: OOPS concepts, [Networking frameworks](https://www.webopedia.com/quick_ref/OSI_Layers.asp), how internet works, how WiFi works, what are the different protocols used and so on. Remember, you have to be so well-versed such that you can explain all this even to a 5 year old. To make lives easier, [here’s the word doc I used while preparing](https://drive.google.com/file/d/1BryNH_vXt7PU0I4zbKvDOkZHwDijvlJI/view?usp=sharing), use this and keep adding more.
 - **System Design:** Ooh, we've hit bulls eye. Most people either don’t prepare or don’t prepare enough for this. Avoid that mistake, and use this [GitHub repo as your Bible or Quran or Bhagavad Gita](https://github.com/donnemartin/system-design-primer). Donne has done a brilliant job of breaking down everything needed. But no need to delve too deep; just practice the ten example questions given first.
 - **Pseudocoding:** _Leetcode_ and a brilliant engineer friend of mine were my strongest pillars. I did not spend a lot of time here, as I knew they wouldn’t ask anything too crazy. If you’re well versed with coding, this should not be a hard section. Just make sure to enunciate, brute force first, optimize next and check for edge cases. [This YouTube channel by Kevin Naughton is super, super useful](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g).
+
+- [How to crack technical questions in PM interviews](https://igotanoffer.com/blogs/product-manager/technical-interview-questions)
 
 ### Additional Technical Practice Interview Questions
 
