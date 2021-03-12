@@ -1,4 +1,4 @@
-# Product Management
+<img src="https://github.com/ElizaLo/Product-Management/blob/main/header.png" width="900" height="100">
 
 ## Best interview preparation books
 
