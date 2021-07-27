@@ -9,8 +9,11 @@
 - ["Swipe to Unlock: The Primer on Technology and Business Strategy"](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K) by Parth Detroja
 - ["In the Plex: How Google Thinks, Works, and Shapes Our Lives"](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585) by Steven Levy
 
-### Other books
+### Other great books
 
+- [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) by Liz Wiseman
+    - https://thewisemangroup.com
+    - [Accidental Diminisher Quiz](https://thewisemangroup.com/quiz/) 
 - [Rise above the noise](http://www.amazon.com/Rise-Above-Noise-Marketing-Interview/dp/0615978428)
 - [Interview math](http://www.amazon.com/Interview-Math-Problems-Solutions-Questions/dp/0692361472)
 - [Thinkertoys](http://www.amazon.com/Thinkertoys-Handbook-Creative-Thinking-Techniques-Edition/dp/1580087736)
