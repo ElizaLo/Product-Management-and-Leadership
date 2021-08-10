@@ -229,3 +229,22 @@ Examples of her day-to-day role as the VP of Product, including:
 - Looking at product metrics to see the direction her products are headed
 - Structuring her day to spend time on day-to-day tactical work as well as long term strategic thinking
 - Balancing the various requests that come to her (e.g. production bugs, sales team requests, customers feature requests, etc)
+
+
+# Essential Feedback
+
+A way to think about feedback that avoids this is as 'reinforcing' or 'redirecting'. In this framing, all feedback is positive.
+
+**Reinforcing feedback** is when your feedback encourages someone to continue a certain behavior.
+
+Alternatively, **redirecting feedback** encourages someone to adopt a new behavior in favour of an old one.
+
+In both cases, the focus is to help a person to thrive. Criticism on its own is not feedback.
+
+### Tips for positive feedback.
+Whether your feedback is reinforcing or redirecting, your focus should be on helping a person to improve. To do that it is important to ask yourself:
+
+- What is my intention in giving this feedback?
+- What impact do I want my feedback to have?
+- Is my feedback constructive?
+- Is my feedback actionable?
