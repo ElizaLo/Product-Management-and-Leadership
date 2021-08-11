@@ -230,6 +230,7 @@ Examples of her day-to-day role as the VP of Product, including:
 - Structuring her day to spend time on day-to-day tactical work as well as long term strategic thinking
 - Balancing the various requests that come to her (e.g. production bugs, sales team requests, customers feature requests, etc)
 
+-------------------------------------
 
 # Essential Feedback
 
@@ -248,3 +249,9 @@ Whether your feedback is reinforcing or redirecting, your focus should be on hel
 - What impact do I want my feedback to have?
 - Is my feedback constructive?
 - Is my feedback actionable?
+
+# Tools
+
+| Title | Description |
+| :---         |          :--- |
+|[Confluence](https://www.atlassian.com/ru/software/confluence)|<ul><li>[Atlassian University](https://university.atlassian.com/student/catalog)</li><li>[The Workstream](https://www.atlassian.com/work-management)</li><li>[Confluence Best Practices](https://www.youtube.com/c/k15tsoftware/featured) - A great product with thoughtful documentation enables your users to do what they love. Learn how your team can work together to create thoughtful documentation in Confluence.</li><li>[]()</li><li>[]()</li></ul>|
