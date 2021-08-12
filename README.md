@@ -231,10 +231,11 @@ Examples of her day-to-day role as the VP of Product, including:
 - Balancing the various requests that come to her (e.g. production bugs, sales team requests, customers feature requests, etc)
 
 -------------------------------------
+# Soft-skillset for Manager
 
 # Essential Feedback
 
-A way to think about feedback that avoids this is as 'reinforcing' or 'redirecting'. In this framing, all feedback is positive.
+A way to think about feedback that avoids this is as **'reinforcing'** or **'redirecting'**. In this framing, all feedback is positive.
 
 **Reinforcing feedback** is when your feedback encourages someone to continue a certain behavior.
 
@@ -249,6 +250,12 @@ Whether your feedback is reinforcing or redirecting, your focus should be on hel
 - What impact do I want my feedback to have?
 - Is my feedback constructive?
 - Is my feedback actionable?
+
+Take the _'blur'_ out of your feedback.
+
+1. **Micro-yes:** get buy-in and prepare the individual for the conversation. For example, "Can I share feedback with you about X?"
+2. **Data:** provide a specific data point. For example, "I noticed yesterday that you did X."
+3. **Impact:** explain the impact on you or others. For example, "I mention it because as a result, Y happened."
 
 # Tools
 
