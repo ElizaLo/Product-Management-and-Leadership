@@ -231,9 +231,9 @@ Examples of her day-to-day role as the VP of Product, including:
 - Balancing the various requests that come to her (e.g. production bugs, sales team requests, customers feature requests, etc)
 
 -------------------------------------
-# Soft-skillset for Manager
+# Soft-skills for Manager
 
-# Essential Feedback
+## Essential Feedback
 
 A way to think about feedback that avoids this is as **'reinforcing'** or **'redirecting'**. In this framing, all feedback is positive.
 
