@@ -233,6 +233,8 @@ Examples of her day-to-day role as the VP of Product, including:
 -------------------------------------
 # Soft-skills for Manager
 
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/feedback.png" width="900" height="100">
+
 ## Essential Feedback
 
 A way to think about feedback that avoids this is as **'reinforcing'** or **'redirecting'**. In this framing, all feedback is positive.
@@ -259,6 +261,18 @@ Take the _'blur'_ out of your feedback.
 
 # Tools
 
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Tools.png" width="900" height="100">
+
 | Title | Description |
 | :---         |          :--- |
 |[Confluence](https://www.atlassian.com/ru/software/confluence)|<ul><li>[Atlassian University](https://university.atlassian.com/student/catalog)</li><li>[The Workstream](https://www.atlassian.com/work-management)</li><li>[Confluence Best Practices](https://www.youtube.com/c/k15tsoftware/featured) - A great product with thoughtful documentation enables your users to do what they love. Learn how your team can work together to create thoughtful documentation in Confluence.</li><li>[]()</li><li>[]()</li></ul>|
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Web%20Sources.png" width="900" height="100">
+
+## Articles 
+
+| Title | Description |
+| :---         |          :--- |
+|[How Google Sold Its Engineers on Management](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management)|High-performing knowledge workers often question whether managers actually contribute much, especially in a technical environment. Until recently, that was the case at Google, a company filled with self-starters who viewed management as more destructive than beneficial and as a distraction from “real work.” But when Google’s people analytics team examined the value of managers, applying the same rigorous research methods the company uses in its operations, it proved the skeptics wrong. Mining data from employee surveys, performance reviews, and double-blind interviews, the team verified that managers indeed had a positive impact. It also pinpointed exactly how, identifying the eight key behaviors of great Google managers. In this article, Harvard Business School professor Garvin describes how Google has incorporated the detailed findings from the research into highly specific, concrete guidelines; classes; and feedback reports that help managers hone their essential skills. Because these tools were built from the ground up, using the staff’s own input, they’ve been embraced by Google employees. Managers say that they’ve found their training to be invaluable, and managers’ ratings from direct reports have steadily risen across the company.|
+| | |
+
