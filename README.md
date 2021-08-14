@@ -267,7 +267,7 @@ Take the _'blur'_ out of your feedback.
 | :---         |          :--- |
 |[Confluence](https://www.atlassian.com/ru/software/confluence)|<ul><li>[Atlassian University](https://university.atlassian.com/student/catalog)</li><li>[The Workstream](https://www.atlassian.com/work-management)</li><li>[Confluence Best Practices](https://www.youtube.com/c/k15tsoftware/featured) - A great product with thoughtful documentation enables your users to do what they love. Learn how your team can work together to create thoughtful documentation in Confluence.</li><li>[]()</li><li>[]()</li></ul>|
 
-#
+# Web Resources
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Web%20Sources.png" width="900" height="100">
 
