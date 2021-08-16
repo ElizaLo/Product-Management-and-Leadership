@@ -259,6 +259,18 @@ Take the _'blur'_ out of your feedback.
 2. **Data:** provide a specific data point. For example, "I noticed yesterday that you did X."
 3. **Impact:** explain the impact on you or others. For example, "I mention it because as a result, Y happened."
 
+### Structure feedback
+
+Giving feedback without thinking it through can result in a confusing mess.
+
+You can give structure to your feedback by using the LifeLabs Learning **‘BIQ method’**. **BIQ** stands for **_Behavior, Impact and Question_**. The BIQ method is super useful for both performance reviews and informal feedback conversations.
+
+- **Behavior**: What did you actually see? Don't make assumptions about intent.
+- **Impact statement**: What was the consequence? Why does it matter and who was affected?
+- **Question**: What question do you want to ask to open the dialog?
+
+Focussing on specific behaviors reduces ambiguity, sharing the impact gives understanding, and asking a question opens the dialog for real change to happen.
+
 # Tools
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Tools.png" width="900" height="100">
