@@ -271,6 +271,22 @@ You can give structure to your feedback by using the LifeLabs Learning **‘BIQ 
 
 Focussing on specific behaviors reduces ambiguity, sharing the impact gives understanding, and asking a question opens the dialog for real change to happen.
 
+### So you've planned your feedback and you're ready to share it, but is it the right time for them?
+
+**Rule of thumb:** When it comes to feedback, especially redirecting feedback, avoid surprises.
+
+**The fix:** ask permission first.
+
+Asking permission gives others a say in when they receive feedback. This has several benefits:
+- Prepares them to be open to your feedback
+- Shows your intention is to help
+- Ensures enough time and space for a full conversation
+
+When you ask for permission, be specific about what you'd like to share. For example:
+- “Can I share some feedback with you about our meeting earlier today?”
+- “Do you have 10 minutes today to debrief on the presentation this morning?”
+- “I noticed a few things that might improve your presentation. Would you like me to share them with you?”
+
 # Tools
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Tools.png" width="900" height="100">
