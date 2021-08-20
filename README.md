@@ -287,12 +287,24 @@ When you ask for permission, be specific about what you'd like to share. For exa
 - “Do you have 10 minutes today to debrief on the presentation this morning?”
 - “I noticed a few things that might improve your presentation. Would you like me to share them with you?”
 
+To avoid making assumptions, focus on behaviors you can observe. For example:
+- “In the team meeting yesterday, you were giving short answers.”
+- “I noticed that you didn't finish that task on time.”
+
+This makes it much easier for the person to understand what triggered your feedback. It allows them to explain what they were thinking or feeling so you don't have to guess.
+
+### Ideas to improve on Feedback
+
+| Title | Description |
+| :---:         |          :--- |
+|**Hold kick offs and retros**|<ul> **Normalize feedback sharing and accelerate team performance by starting all major projects with a kick off.** <p> These sessions where you define project outcomes (including productivity and learning goals).</p><p> Next, schedule your project retrospective, reviewing what went well and what could have been better.</p><p> _Why?_ </p><p>Research on surgical teams shows that taking time to reflect and learn from successes and failures improves performance even more than getting additional practice!</p><p> **Instructions**</p><li>Schedule a 30-90 minute meeting at the start and end of major projects.</li><li>For **kick-off** meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BKick%2BOff.pdf) to structure.</li><li>For retrospective meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BRetro.pdf) to structure.</li><li>Invite all stakeholders.</li><li>Explain that your goal is to align on project success, then pause to reflect, share feedback, and extract the learning.</li></ul>|
+
 # Tools
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Tools.png" width="900" height="100">
 
 | Title | Description |
-| :---         |          :--- |
+| :---:         |          :--- |
 |[Confluence](https://www.atlassian.com/ru/software/confluence)|<ul><li>[Atlassian University](https://university.atlassian.com/student/catalog)</li><li>[The Workstream](https://www.atlassian.com/work-management)</li><li>[Confluence Best Practices](https://www.youtube.com/c/k15tsoftware/featured) - A great product with thoughtful documentation enables your users to do what they love. Learn how your team can work together to create thoughtful documentation in Confluence.</li><li>[]()</li><li>[]()</li></ul>|
 
 # Web Resources
