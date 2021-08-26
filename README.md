@@ -330,6 +330,8 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 
 # Communities
 
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Communities.png" width="900" height="100">
+
 ## Slack Communities For Product Managers
 
 | Title | Description |
