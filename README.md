@@ -198,21 +198,6 @@ There are many factors that can go into prioritization. Some common ones include
 - **Always break down the problem:** Candidates who provide some clarity and structure to open-ended questions will stand out.
 - **Above and beyond:** It's not always practical or appropriate, but to really stand out, consider creating a product related proposal or project that is beneficial to the company and provide this as part of the interview process.
 
-## Communities
-
-- **Slack Community For Product Managers**:
-  - [Product School](https://www.productschool.com/slack-community/)
-  - [Slack Channel created by Lewis Lin](https://www.lewis-lin.com/blog/2018/7/8/lewis-c-lins-slack-community), which already has over 5000 people looking for mock practice partners
-- [FirstRound Talent](http://first%20round%20jobs) (by invitation only)
-- [Ken Norton’s](https://www.kennorton.com/jobs/) blog and newsletter (specifically in the [GV](http://googleventures.com/) portfolio)
-- **Women’s communities:**
-  - [Women in Product newsletter](http://www.womenpm.org/join/)
-    - [Women in Product](https://www.facebook.com/groups/womeninproduct/) Facebook group
-  - [Women 2.0](https://women2.com/) (more engineering focused but there’s the occasional PM role in there too)
-  - [Advancing Women in Product](https://www.facebook.com/advancingwomeninproduct/)
-- Twitter, LinkedIn, Product School, Product Tank, Product Hunt, On Deck Daily, some sub-reddits, etc.
-- [Job Search](https://producthired.com/find-a-job/)
-
 -----------------------------
 
 # Growth Product Manager
@@ -293,12 +278,26 @@ To avoid making assumptions, focus on behaviors you can observe. For example:
 
 This makes it much easier for the person to understand what triggered your feedback. It allows them to explain what they were thinking or feeling so you don't have to guess.
 
+### Is it possible to give too much feedback?
+
+Feedback is important for your team's growth, but too much too fast can be overwhelming. It's a lot to take in and makes it harder to act on it in a constructive way.
+
+Counteract this by prioritizing your feedback. Focus on what will have the most impact on people’s success.
+
+Focusing on 1 or 2 feedback areas at a time will give them space to absorb it and respond constructively.
+
+If you're unsure about what feedback will be most impactful, just ask! For example, before giving feedback on a document, you might ask:
+_"Are you looking for feedback on the strategic direction? Or more on spelling and grammar?"_
+
 ### Ideas to improve on Feedback
 
 | Title | Description |
 | :---:         |          :--- |
-|**Hold kick offs and retros**|<ul> **Normalize feedback sharing and accelerate team performance by starting all major projects with a kick off.** <p> These sessions where you define project outcomes (including productivity and learning goals).</p><p> Next, schedule your project retrospective, reviewing what went well and what could have been better.</p><p> _Why?_ </p><p>Research on surgical teams shows that taking time to reflect and learn from successes and failures improves performance even more than getting additional practice!</p><p>**Instructions**</p><li>Schedule a 30-90 minute meeting at the start and end of major projects.</li><li>For **kick-off** meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BKick%2BOff.pdf) to structure.</li><li>For retrospective meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BRetro.pdf) to structure.</li><li>Invite all stakeholders.</li><li>Explain that your goal is to align on project success, then pause to reflect, share feedback, and extract the learning.</li></ul>|
+|**Hold kick offs and retros**|<ul>**Normalize feedback sharing and accelerate team performance by starting all major projects with a kick off.** <p> These sessions where you define project outcomes (including productivity and learning goals).</p><p> Next, schedule your project retrospective, reviewing what went well and what could have been better.</p><p> _Why?_ </p><p>Research on surgical teams shows that taking time to reflect and learn from successes and failures improves performance even more than getting additional practice!</p><p>**Instructions**</p><li>Schedule a 30-90 minute meeting at the start and end of major projects.</li><li>For **kick-off** meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BKick%2BOff.pdf) to structure.</li><li>For retrospective meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BRetro.pdf) to structure.</li><li>Invite all stakeholders.</li><li>Explain that your goal is to align on project success, then pause to reflect, share feedback, and extract the learning.</li></ul>|
 |**Ask the 10% Question**|<ul><p>To create a feedback culture, pull for feedback on a regular basis.</p><p>Not only will you expedite your own development, you will send a strong signal-setting message to your team, demonstrating that feedback is expected and rewarded. Make it easy for your direct reports to give you feedback by showing how it will benefit you, and by keeping your ask small</p><p>_Why?_</p><p>We find it easier to give feedback when a request is specific and the risk feels low.</p><p>**Instructions**<p>Pull for feedback at least once this week by asking the 10% Question.</p><p>**_For example:_** "I would really love your help. Can you share your feedback on X? What went well? What could have made it 10% better?"</p></ul>|
+|**Reflection moments**|<ul><p>**Build time into the end of meetings and projects for all team members to reflect on the process.**</p><p>For a team meeting, when announcements are made or decisions agreed, ask them to spend 5 minutes reflecting on the process of the meeting and how communication went. For larger projects use a tool like [GroupMap](https://www.groupmap.com/) to take the team through an hour long process.</p><p>_Why?_</p><p>These moments of reflection are a great way to evaluate success, gather feedback to share, and take on learnings. The team can implement changes for future projects and use for individual development.</p><p>**Instructions**</p><p>Great questions to ask and discuss include:</p><li>What went well that we'd do again?</li><li>What can improve for next time?</li><li>Anything we're still unsure of or need clarity on?</li><li>Are there action/s to take from this feedback?</li></ul>|
+
+--------------------------------------------------------
 
 # Tools
 
@@ -307,6 +306,7 @@ This makes it much easier for the person to understand what triggered your feedb
 | Title | Description |
 | :---:         |          :--- |
 |[Confluence](https://www.atlassian.com/ru/software/confluence)|<ul><li>[Atlassian University](https://university.atlassian.com/student/catalog)</li><li>[The Workstream](https://www.atlassian.com/work-management)</li><li>[Confluence Best Practices](https://www.youtube.com/c/k15tsoftware/featured) - A great product with thoughtful documentation enables your users to do what they love. Learn how your team can work together to create thoughtful documentation in Confluence.</li><li>[]()</li><li>[]()</li></ul>|
+|[GroupMap](https://www.groupmap.com)|A real-time online brainstorming tool for meetingsworkshopsconferencesclassroomsevents. GroupMap gives you a simple, yet powerful tool to Design, Discover and Deliver meetings, workshops and training sessions that help people think better together.|
 
 # Web Resources
 
@@ -317,6 +317,9 @@ This makes it much easier for the person to understand what triggered your feedb
 | Title | Description |
 | :---         |          :--- |
 |[re:Work](https://rework.withgoogle.com)|re:Work is a collection of practices, research, and ideas from Google and others to help you put people first.|
+|[Culture Amp Support Guide](https://support.cultureamp.com/hc/en-us)|Support Guide|
+|[Culture Amp](https://www.cultureamp.com/blog)|Expert insights on performance management, employee development and employee engagement for HR professionals and people leaders.|
+|[LifeLabs Learning](https://lifelabslearning.com)|Your company needs exceptional leaders and powerful teams. And your managers need the most essential skills in the shortest time. That’s our specialty at LifeLabs Learning.|
 
 ## Articles 
 
@@ -324,4 +327,28 @@ This makes it much easier for the person to understand what triggered your feedb
 | :---         |          :--- |
 |[How Google Sold Its Engineers on Management](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management)|High-performing knowledge workers often question whether managers actually contribute much, especially in a technical environment. Until recently, that was the case at Google, a company filled with self-starters who viewed management as more destructive than beneficial and as a distraction from “real work.” But when Google’s people analytics team examined the value of managers, applying the same rigorous research methods the company uses in its operations, it proved the skeptics wrong. Mining data from employee surveys, performance reviews, and double-blind interviews, the team verified that managers indeed had a positive impact. It also pinpointed exactly how, identifying the eight key behaviors of great Google managers. In this article, Harvard Business School professor Garvin describes how Google has incorporated the detailed findings from the research into highly specific, concrete guidelines; classes; and feedback reports that help managers hone their essential skills. Because these tools were built from the ground up, using the staff’s own input, they’ve been embraced by Google employees. Managers say that they’ve found their training to be invaluable, and managers’ ratings from direct reports have steadily risen across the company.|
 | | |
+
+# Communities
+
+## Slack Communities For Product Managers
+
+| Title | Description |
+| :---         |          :--- |
+|[Product School](https://www.productschool.com/slack-community/)| |
+|[Slack Channel created by Lewis Lin](https://www.lewis-lin.com/blog/2018/7/8/lewis-c-lins-slack-community)| Already has over 5000 people looking for mock practice partners|
+|[FirstRound Talent](http://first%20round%20jobs)| (by invitation only)|
+|[Ken Norton’s](https://www.kennorton.com/jobs/)| Blog and newsletter (specifically in the [GV](http://googleventures.com/) portfolio)|
+|[Culture First community](https://www.cultureamp.com/community) form **Culture Amp**|The People Geek Slack community brings together diverse individuals and skilled thought leaders from around the globe. Together they share experiences and learn form each other.|
+|[People Geeks](https://answers.peoplegeeks.com)|Encourage you to use this site to ask questions, share experiences and engage in meaningful conversations with other People Geeks around the world.|
+
+## Women’s communities
+
+| Title | Description |
+| :---         |          :--- |
+|[Women in Product newsletter](http://www.womenpm.org/join/)|[Women in Product](https://www.facebook.com/groups/womeninproduct/) Facebook group|
+|[Women 2.0](https://women2.com/)| (more engineering focused but there’s the occasional PM role in there too)|
+|[Advancing Women in Product](https://www.facebook.com/advancingwomeninproduct/)| |
+|Twitter, LinkedIn, Product School, Product Tank, Product Hunt, On Deck Daily, some sub-reddits, etc.|
+|[Job Search](https://producthired.com/find-a-job/)| |
+
 
