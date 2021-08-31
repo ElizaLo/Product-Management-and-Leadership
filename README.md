@@ -307,6 +307,8 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 
 ## Coaching skills
 
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Coaching.png" width="900" height="100">
+
 ### Articles
 
 - [The SOON Funnel: 4 Coaching Questions the Best Managers Ask](https://trainingindustry.com/articles/performance-management/the-soon-funnel-4-coaching-questions-the-best-managers-ask/)
