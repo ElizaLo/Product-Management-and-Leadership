@@ -224,6 +224,10 @@ Examples of her day-to-day role as the VP of Product, including:
 
 ## Essential Feedback
 
+> Feedback is the process of helping others gain self-awareness about the impact of their actions.
+
+The focus of feedback should be to help others to thrive. Good feedback speeds up learning and builds collaborative and engaged teams.
+
 A way to think about feedback that avoids this is as **'reinforcing'** or **'redirecting'**. In this framing, all feedback is positive.
 
 **Reinforcing feedback** is when your feedback encourages someone to continue a certain behavior.
@@ -315,9 +319,9 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 - [Understanding When to Give Feedback](https://hbr.org/2014/12/understanding-when-to-give-feedback) by **Harvard Business Review Editors**
 - [Research: Vague Feedback Is Holding Women Back](https://hbr.org/2016/04/research-vague-feedback-is-holding-women-back), **Harvard Business Review**
 
-## Coaching skills
-
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Coaching.png" width="900" height="100">
+
+## Coaching skills
 
 ### Articles
 
@@ -325,7 +329,9 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 
 ## Meeting mastery skills
 
+> The best managers don’t just run meetings, they design experiences.
 
+Meetings are common and difficult. That’s why knowing how to lead them is one of the most powerful ways you can stand out as a manager.
 
 --------------------------------------------------------
 
