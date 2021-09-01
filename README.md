@@ -220,9 +220,9 @@ Examples of her day-to-day role as the VP of Product, including:
 -------------------------------------
 # Soft-skills for Manager
 
-<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/feedback.png" width="900" height="100">
-
 ## Essential Feedback
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/feedback.png" width="900" height="100">
 
 > Feedback is the process of helping others gain self-awareness about the impact of their actions.
 
@@ -319,9 +319,9 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 - [Understanding When to Give Feedback](https://hbr.org/2014/12/understanding-when-to-give-feedback) by **Harvard Business Review Editors**
 - [Research: Vague Feedback Is Holding Women Back](https://hbr.org/2016/04/research-vague-feedback-is-holding-women-back), **Harvard Business Review**
 
-<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Coaching.png" width="900" height="100">
-
 ## Coaching skills
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Coaching.png" width="900" height="100">
 
 ### Articles
 
