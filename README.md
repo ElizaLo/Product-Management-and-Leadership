@@ -329,9 +329,30 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 
 ## Meeting mastery skills
 
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Meeting.png" width="900" height="100">
+
 > The best managers don’t just run meetings, they design experiences.
 
 Meetings are common and difficult. That’s why knowing how to lead them is one of the most powerful ways you can stand out as a manager.
+
+### 4P Opener
+
+| Title | Description |
+| :---:         |          :--- |
+|**‘P’** is **Purpose**|<ul><p>Purpose is why the meeting is happening. For example: _“The purpose of this meeting is to [**update, explore, decide...**]_”</p><p>This first P links up to the goal of the meeting, to make sure it’s a strategic use of time. Without a purpose statement, conversations will pull in different directions. This causes confusion, frustration and inefficiency. Clarifying purpose up front also helps participants focus on the topic at hand. It means they’re less likely to get distracted by thoughts from earlier meetings.</p></ul>|
+|**‘P’** is **Product**|<ul><p>Product is what the group will have at the end of the meeting that didn’t exist at the start. For example: _“We will leave here with [**five ideas, a decision, a list of next steps...**]”_</p><p>We’ve seen how purpose means there’s a broad focus area. Product creates a mental progress bar in everyone’s minds toward the ultimate result of this specific meeting.</p><p>The more tangible the product, the more likely people will be to hold each other and themselves accountable for staying on topic.</p></ul>|
+|**‘P’** is **Personal benefit**|<ul><p>Personal benefit is the reason meeting participants will feel motivated to contribute. For example: _“This will help you/us [**save time, feel aligned, make an impact...**]”_</p><p>The personal benefit statement should spark motivation to achieve the product. Without an explicit personal benefit, it can be easy for people to ‘check out’ and become passive bystanders.</p><p>A personal benefit statement also gives you, as the meeting leader, an opportunity to link to why you’re passionate about this topic.</p><p>Research shows that the meeting leader’s mood at the start of a meeting spreads to the rest of the participants, whether it’s positive or negative. When you’re excited about the meeting topic, your team is more likely to get excited too!</p></ul>|
+|**‘P’** is **Process**|<ul><p>Process means how we will structure the conversation. For example: _“We’ll spend the first half on agenda point X, and the second half on point Y.”_</p><p>Process outlines how the group will achieve the product. Ideally, this takes the form of an agenda shared in advance of the meeting and again at the beginning. Research shows that agendas rapidly improve meeting quality.</p><p>Now let’s look at how an agenda gives the structure your meeting needs.</p></ul>|
+
+### Agenda
+
+The agenda is a tool to keep focus throughout the meeting.
+
+- Make your agenda visible throughout the meeting
+- Check off each item on the agenda as you complete it to spark more dopamine (the chemical released in the brain that makes you feel good)
+- Write time estimates for each agenda item, then record how long each item actually took to build time awareness skills.
+
+As well as the agenda, you can also clarify other process points for the meeting. These are things like ground rules and instructions for how to use any technology used in the meeting.
 
 --------------------------------------------------------
 
