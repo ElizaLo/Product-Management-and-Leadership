@@ -313,6 +313,7 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 |**Break up triangulation**|<ul><p> ➡️ Encourage direct feedback on your team</p><p>**Triangulation happens when someone offers second-hand feedback.**</p><p>This scenario is common among individuals or teams who are not comfortable sharing feedback directly e.g. _"A tells B about something that C did, and B delivers the feedback to C."_ And, if not handled well, triangulation can quickly escalate to distrust, disengagement, and a toxic work culture.</p><p>_Why?_</p><p>When a recipient doesn’t know the feedback source, the message is typically too vague to be helpful. Worse yet, the recipient is often left feeling frustrated and anxious, wondering who said something behind their back and why the message wasn't delivered directly.</p><p>**Instructions**</p><p>Let your team know that you do not support triangulation, and ask everyone to hold one another accountable to giving feedback directly. If someone brings you feedback about someone else:</p><li>**Redirect:** Ask _"Have you shared this feedback directly?"_ If not, ask: _"How can I help you prepare for the conversation?"_ In the case of conflict, offer to mediate the conversation.</li><li>**Credit the source:** If the indivudual is unwilling to share, ask: _"If I deliver this message, can I let the person know they can follow up with you if they have any questions about the feedback?"_</li><li>**Collect the data:** If the individual is still uncomfortable sharing the message, say: _"In that case, I will keep an eye out for this behavior, so I can share the feedback from my perspective."_</li><p></p><p>**Pro tip:** [Learn more](https://lifelabslearning.com/lab/tripped-up-by-triangulation-heres-the-right-way-to-handle-third-party-feedback/) about not getting tripped up in triangulation.</p></ul>|
 |**Establish feedback norms**|<ul><p> ➡️ Set expectations with your team about how and when to share feedback</p><p>**Share why you think feedback is important.**</p><p>In your next team meeting and in your 1 on 1s, share why you think feedback is important e.g., _"when we give one another feedback, we help each other grow. Being direct about what we think is going well and not so well is the most helpful thing we can do for one another”_. Invite your team to give you feedback, and ask them to share their feedback preferences. Bonus: ask each direct report what they'd like you to give them feedback on.</p><p>_Why?_</p><p>Feedback expectations vary widely by culture and by individual. Without shared feedback norms, miscommunication and conflict are likely to happen.</p><p>**Instructions**</p><p>At your next team meeting, share your commitment to creating a feedback culture. Ask team members to share their feedback preferences and capture your decisions in a team playbook. For example, answer the questions below together:</p><li>How often should we give one another feedback?</li><li>Should we share feedback in person, over email, Slack, etc.?</li><li>How often should we ask one another for feedback?</li><li>What types of things should we share feedback on?</li><li>How can we make it easy for people to give us feedback?</li><p></p><p>In your 1 on 1 meetings, ask each direct report about their feedback preferences and what they would like you to give them feedback on.</p></ul>|
 |**Elephants, Dead Fish and Vomit**|<ul><p> ➡️ Categorizing better dialogue in meetings</p><p>**Arrange your conversations in a way that makes everyone feel heard.**</p><p>After receiving survey feedback that employees didn't feel they could be open and honest, the Airbnb executive team categorized their dialogue in meetings under three areas: _'elephants'_, _'dead fish'_ and _'vomit'_.</p><li>**Elephants:** 'big things' in the room nobody is talking about</li><li>**Dead fish:** 'things' from the past people can't let go of</li><li>**Vomit:** is for situations when someone just needs to be heard.</li><p></p><p>_Why?_</p><p>Improve meeting effectiveness with clearly-defined opportunities to contribute on what often goes unsaid in organizations out in the open.</p><p>**Instructions**</p><li>Ask your team if they feel this type of meeting methodology could help get better clarity and talk about situations more openly.</li><li>Facilitate for meetings when this is appropriate.</li></ul>|
+|**Timing is everything**|<ul><p> ➡️ Providing feedback in the moment or as close to it.</p><p>Timely feedback increases the chances of people being more aware of their performance and being able to make changes. Whether the feedback is positive or constructive, provide the information as closely tied to the event as possible. Within 24 hours is ideal.</p><p>_Why?_</p><p>Normalizing feedback as part of everyday conversation on what people are doing well or areas for improvement vs. waiting for a formal review helps it be better received.</p><p>**Instructions**</p><li>Look for opportunities to recognize great performance, it's a powerful motivator. Recognition fosters more of the appreciated actions.</li><li>Pull aside a team member in private for any constructive feedback, ask permission first and look to work on a solution together.</li><li>Look to make this feedback timely, specific and frequent for your team members.</li></ul> |
 
 ### Web Sources
 
@@ -362,6 +363,44 @@ The agenda is a tool to keep focus throughout the meeting.
 - Write time estimates for each agenda item, then record how long each item actually took to build time awareness skills.
 
 As well as the agenda, you can also clarify other process points for the meeting. These are things like ground rules and instructions for how to use any technology used in the meeting.
+
+### ‘Inform’ type meeting
+
+#### 🔷 Inform meeting tool #1: Round-robins
+
+A round-robin is a process of going around to hear from each person in the group. Round-robins are efficient because you don’t have to wait around and wonder who will speak next. They also help harness the collective wisdom of your team, instead of letting just a few voices run the show.
+
+Research shows that when people take equal turns in a conversation, this leads to better team performance. This is more important for performance than even collective team member IQ! So, when you do round-robins, be sure to give everyone equal speaking time.
+
+And a final tip from the professionals. Use a timer you can hear so people can track their own talking time, or use a video call plug-in that shows participants how long each person has been speaking.
+
+#### Get people involved early and change the dynamics of the meeting
+
+A round-robin is a helpful tool whenever you want to hear from everyone in the group, and it’s especially useful at the start of meetings. When you get people’s voices in the room early on, they’ll be more likely to contribute throughout the meeting.
+
+Here are some examples of common round-robin prompts we’ve seen great managers use in their team huddles. Choose one question you could use for your next round-robin.
+
+- [ ] What is one win, frustration, or learning from the past week/yesterday?
+- [ ] What did you get done yesterday?
+- [ ] What are you working on today / what are your top priorities?
+- [ ] What are your roadblocks or obstacles?
+
+#### 🔷 Inform meeting tool #2: Rotate roles
+
+For regular meetings to give information, great managers ask team members to take turns leading. That way people don’t get stuck in a position of high power or low power. Common roles to rotate include:
+
+- Facilitating
+- Timekeeping
+- Note-taking
+- Sending minutes
+
+Rotating roles gives everyone an opportunity to be visible and to share in administrative tasks. It teaches people to be better meeting participants by building empathy for all roles. As a bonus, each person brings their own ‘flavor’ to these roles, creating variety in what could otherwise become a monotonous meeting.
+
+#### 🔷 Inform meeting tool #3: Shorter meetings
+
+A fun ‘law’ of meetings is Parkinson's Law which states that work expands to fill the time allotted to it.
+
+If you’re meeting for an hour, experiment by reducing it to 55 or 50 minutes. If you’re meeting for half an hour, reduce it to 25 minutes. Besides giving people more free time (they will love you), shortening the meeting time creates a little bit of extra stress which focuses the mind.
 
 --------------------------------------------------------
 
