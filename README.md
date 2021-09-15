@@ -364,7 +364,7 @@ The agenda is a tool to keep focus throughout the meeting.
 
 As well as the agenda, you can also clarify other process points for the meeting. These are things like ground rules and instructions for how to use any technology used in the meeting.
 
-### ‘Inform’ type meeting
+### 🟠 ‘Inform’ type meeting
 
 #### 🔷 Inform meeting tool #1: Round-robins
 
