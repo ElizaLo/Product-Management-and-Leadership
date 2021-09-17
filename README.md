@@ -410,10 +410,39 @@ So, how can you avoid the common pitfalls of these meetings and harness their po
 
 #### 🔷 1: Defer judgment
 
-#### 🔷 2: 
+The number one rule for ideation is to defer judgment (which is different from ‘no bad ideas’). Deferring judgment simply means you do not judge the merit of an idea during the brainstorming session.
 
-#### 🔷 3: 
+Studies show that when we defer judgment we come up with more ideas and better ideas. Researchers at LifeLabs Learning observed that great managers reminded people to defer judgement. They did this even if they were generating ideas in silence (sometimes we can get in our own way).
 
+And when exploring ideas out loud, they pointed out when participants were critical or even gave excessive praise. Doing this helps avoid switching on the group’s judgment filters.
+
+▶️ **Here's a sample of part of a conversation.**
+
+**Explorer:** Oh! Another option we haven’t considered yet is changing our work hours.
+
+**Narrower:** That would never work. People won’t agree to a different schedule.
+
+**Meeting facilitator:** Whoops. That sounds like an evaluation of the idea. Can you hang onto that concern until we start narrowing down our options?
+
+#### 🔷 2: Idea quotas
+
+Want an easy shortcut to helping people be less judgy? Assign an idea quota.
+
+For example, set a goal of generating 10 ideas in 10 minutes or have teams compete over who will come up with more ideas. Paradoxically, a focus on quantity leads to higher quality. An idea quota also helps push people beyond boring, surface-level solutions. It keeps people digging even after they think their well of ideas has dried up.
+
+#### 🔷 3: Cross-pollinate
+
+The enemy of exploration and ideation is ‘groupthink’: going along to get along. The best managers recognized the power of bringing people with diverse backgrounds and views together. They made their exploration meetings better, faster, by deliberately cross-pollinating people’s perspectives. Just as cross-pollination gives life to brand new varieties of plants, it also gives life to brand new ideas.
+
+To become a great cross-pollinator faster, get in the habit of asking questions to encourage looking wider.
+
+**Here are some samples.**
+
+- Whose perspective might we be missing?
+- Do we have enough diversity of people and perspectives in the room?
+- What other people, departments, companies, industries, or even species have solved a similar problem?
+
+What can we learn from them?
 --------------------------------------------------------
 
 # Tools
