@@ -436,7 +436,7 @@ The enemy of exploration and ideation is ‘groupthink’: going along to get al
 
 To become a great cross-pollinator faster, get in the habit of asking questions to encourage looking wider.
 
-**Here are some samples.**
+▶️ **Here are some samples.**
 
 - Whose perspective might we be missing?
 - Do we have enough diversity of people and perspectives in the room?
