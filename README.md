@@ -366,7 +366,7 @@ As well as the agenda, you can also clarify other process points for the meeting
 
 ### 🟠 ‘Inform’ type meeting
 
-#### 🔷 Inform meeting tool #1: Round-robins
+#### 🔷 1: Round-robins
 
 A round-robin is a process of going around to hear from each person in the group. Round-robins are efficient because you don’t have to wait around and wonder who will speak next. They also help harness the collective wisdom of your team, instead of letting just a few voices run the show.
 
@@ -385,7 +385,7 @@ Here are some examples of common round-robin prompts we’ve seen great managers
 - [ ] What are you working on today / what are your top priorities?
 - [ ] What are your roadblocks or obstacles?
 
-#### 🔷 Inform meeting tool #2: Rotate roles
+#### 🔷 2: Rotate roles
 
 For regular meetings to give information, great managers ask team members to take turns leading. That way people don’t get stuck in a position of high power or low power. Common roles to rotate include:
 
@@ -396,11 +396,23 @@ For regular meetings to give information, great managers ask team members to tak
 
 Rotating roles gives everyone an opportunity to be visible and to share in administrative tasks. It teaches people to be better meeting participants by building empathy for all roles. As a bonus, each person brings their own ‘flavor’ to these roles, creating variety in what could otherwise become a monotonous meeting.
 
-#### 🔷 Inform meeting tool #3: Shorter meetings
+#### 🔷 3: Shorter meetings
 
 A fun ‘law’ of meetings is Parkinson's Law which states that work expands to fill the time allotted to it.
 
 If you’re meeting for an hour, experiment by reducing it to 55 or 50 minutes. If you’re meeting for half an hour, reduce it to 25 minutes. Besides giving people more free time (they will love you), shortening the meeting time creates a little bit of extra stress which focuses the mind.
+
+### 🟠 ‘Explore’ type meeting
+
+We've seen how **‘Inform’** meetings are all about a simple exchange of information. The purpose of **‘Explore’** meetings is to generate new insights and ideas together. Over the years, these types of meetings have become more popular. But sadly, research shows that they are usually less productive than coming up with ideas on your own.
+
+So, how can you avoid the common pitfalls of these meetings and harness their power? First, make sure **you set aside time for silent**, **solo ‘ideation’ (when you come up with ideas)**, as well as **ideation in a pair or whole group**.
+
+#### 🔷 1: Defer judgment
+
+#### 🔷 2: 
+
+#### 🔷 3: 
 
 --------------------------------------------------------
 
