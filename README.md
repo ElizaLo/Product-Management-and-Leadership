@@ -350,9 +350,9 @@ Meetings are common and difficult. That’s why knowing how to lead them is one 
 ### Meeting Types
 
 The most common meeting types are:
-- **Inform:** share information, news, thoughts, and/or feelings or answer questions
-- **Explore:** ask questions, generate ideas, spark insights
-- **Narrow:** debate, prioritize, vote, decide, work out a plan of action
+- 🔸 **Inform:** share information, news, thoughts, and/or feelings or answer questions
+- 🔸 **Explore:** ask questions, generate ideas, spark insights
+- 🔸 **Narrow:** debate, prioritize, vote, decide, work out a plan of action
 
 ### Agenda
 
@@ -441,8 +441,70 @@ To become a great cross-pollinator faster, get in the habit of asking questions 
 - Whose perspective might we be missing?
 - Do we have enough diversity of people and perspectives in the room?
 - What other people, departments, companies, industries, or even species have solved a similar problem?
+- What can we learn from them?
 
-What can we learn from them?
+### 🟠 ‘Narrow’ type meeting
+
+#### 🔷 1: Declare the DACI
+
+Many of the great managers LifeLabs Learning studied used some kind of decision-making framework with their teams. They did this both in general and especially during narrowing meetings. One of our favorites is the **‘DACI Model’**, which stands for:
+
+- **Driver**: the person ‘behind the wheel’ of an initiative who is responsible for getting it across the finish line. Just as in a car, there should only be one driver.
+- **Approver(s)**: the person or people who make the final decision. Sometimes the Driver and Approver are the same person. If there are many approvers, make the approval process clear. _**For example**_: single approver, two approvers and a tie-breaker if needed, consensus (all agree to support the decision), majority vote (51%).
+- **Consultants**: people who give input, suggestions, feedback, or execute components of the work.
+- **Informed**: people who are updated along the way and when the work is done.
+
+
+Without a clear Approver and Approval Process, debates can go on for some time and the loudest voices typically win out.
+
+The beauty of DACI (and similar models) is that it helps you and your team make implicit (or unexpressed) expectations explicit.
+
+To make an immediate improvement in the quality of your Narrow meetings, declare the DACI and Approval Process from the start.
+
+#### 🔷 2: Impact/Feasibility Map
+
+When everyone is clear on how the decision will be made, it’s time to do the work of moving toward the decision. If you’ve already generated a wide range of ideas, a helpful tool to narrow the list is an Impact or Feasibility Map.
+
+Here’s how it works:
+
+- Write each idea the team generated on a separate physical or digital ‘sticky note’.
+- Combine all the ideas.
+- Remove any duplicates.
+- Plot each idea on the spectrum of ‘impact’ and ‘feasibility’.
+
+Impact is how likely it will be that the idea achieves the desired result. Feasibility is how realistic it will be to act on this idea given existing constraints like time, money, and the team’s skill level.
+
+_**For example**_:
+
+In this chart, imagine your team’s goal is to double the number of attendees for the next conference.
+- Idea A might be to invite an A-list celebrity. It would probably have a big impact, but it isn’t workable given your budget.
+- Idea B might be to rename the conference. It would be easy, but it’s unlikely to have a significant impact.
+- Idea C is the sweet spot (high impact and high feasibility), for example letting attendees buy a second ticket for 50% off.
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Impact_Feasibility_Map.png" width="329" height="276">
+
+The goal of this exercise isn’t to have complete agreement or even to know for sure how to categorize each idea.
+
+The point is to narrow your list of ideas down to those that are most likely to succeed and to hear people’s reasoning in the process.
+
+While impact and feasibility are the most common criteria, you can also do this exercise with other criteria like:
+- speed versus cost
+- aesthetics versus functionality
+- convenience versus environmental impact
+
+The final tool for improving Narrow meetings keeps any conflicts that come up focussed on the ideas, not the people.
+
+#### 🔷 3: Pros, cons, and mitigations
+
+After your long list dwindles down to a small list of workable, high impact ideas, it’s easy for debate to follow. When conflict is constructive it can be a terrific force for ensuring that decisions are thoughtful and strategic. But conflict can also easily turn personal. One of our favorite tools to keep conflict helpful is spelling out the pros, cons, and mitigations for each idea.
+
+**From Me vs You, to Us vs the Problem**
+
+The brilliance of this framework is that, instead of having people debate one another, you turn the team’s focus toward the ideas. Here’s how it works, one idea at a time:
+- **Pros:** Going round-robin, each person shares what they see as the idea’s pros, strengths, and advantages.
+- **Cons:** Each person shares what they see as the cons, risks, and disadvantages of the idea.
+- **Mitigations:** Each person proposes mitigation suggestions to amplify the pros and reduce the impact of the cons.
+
 --------------------------------------------------------
 
 # Tools
