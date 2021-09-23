@@ -505,6 +505,26 @@ The brilliance of this framework is that, instead of having people debate one an
 - **Cons:** Each person shares what they see as the cons, risks, and disadvantages of the idea.
 - **Mitigations:** Each person proposes mitigation suggestions to amplify the pros and reduce the impact of the cons.
 
+### Course-correction formula
+
+#### Behavior observation + impact statement + process suggestion
+
+_For example_, if there is little discussion happening, you might say:
+
+_“It seems we’re quiet today (**behavior observation**), which means it’s hard to tell if we’re aligned (**impact statement**). How about we take five minutes to brainstorm some questions in silence so we can all gather our thoughts, then share (**process suggestion**)?”_
+
+- What would be your observation, impact and process statement if a few people are doing most of the talking?
+
+_“I’m noticing we’re not hearing from everyone, so we’re not getting the benefit of different perspectives. Let’s go round-robin (and say “pass” if you prefer not to share).”_
+
+- What would be your observation, impact and process statement if people are straying away from the topic?
+
+_“Since we only have 10 minutes left and this is our chance to make a decision that impacts all of us, should we go back to the agenda and add the other topic to the parking lot?”_
+
+- What would be your observation, impact and process statement if people are shooting down one another ideas?
+
+_“It looks like some of us are coming up with ideas and some of us are evaluating them, so we’re not making progress. Let’s defer judgement for this meeting, then we can look at pros and cons of each idea next week.”_
+
 --------------------------------------------------------
 
 # Tools
