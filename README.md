@@ -561,6 +561,12 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 |[Culture Amp](https://www.cultureamp.com/blog)|Expert insights on performance management, employee development and employee engagement for HR professionals and people leaders.|
 |[LifeLabs Learning](https://lifelabslearning.com)|Your company needs exceptional leaders and powerful teams. And your managers need the most essential skills in the shortest time. That’s our specialty at LifeLabs Learning.|
 
+## GitHub Repositories :octocat:
+
+| Title | Description |
+| :---         |          :--- |
+|[awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)|Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.|
+
 ## Articles 
 
 | Title | Description |
@@ -593,4 +599,9 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 |Twitter, LinkedIn, Product School, Product Tank, Product Hunt, On Deck Daily, some sub-reddits, etc.|
 |[Job Search](https://producthired.com/find-a-job/)| |
 
+## Mailings
+
+| Title | Description |
+| :---         |          :--- |
+|[Software Lead Weekly](https://softwareleadweekly.com)|A weekly email for busy people who care about people, culture and leadership.|
 
