@@ -331,7 +331,27 @@ Strategic thinking is a process that enables you to work with your team on plans
 
 Develop these skills to make better decisions in the face of uncertainty.
 
+### Scaling questions
 
+Some common scaling questions to get you started:
+
+- **Completion:** How complete is the project I’m working on, 1-10 scale? What would move it one point?
+- **Efficiency:** How streamlined is xyz currently? Where would I (realistically) like it to be by now? What would move it one point?
+- **Satisfaction:** How happy am I with how things are going?
+- **Impact:** How successful is xyz?
+- **Skill level:** How skilled am I at xyz?
+
+These are just a few sample questions. The key point is to train the brain to think in terms of numbers.
+
+**Why practice scaling questions?**
+
+Researchers at LifeLabs Learning studied the difference between good and great managers. They saw one key difference between them: the great managers had a habit of helping their teams think in concrete, measurable ways, even when things don't seem measurable. Adding numbers creates both a reality check and a relative progress bar to track change against.
+
+So, teams with great strategic thinking skills have a habit of asking:
+
+- Where things currently are
+- Where one would like those things to be by a certain date
+- What actions move the needle between those two points.
 
 
 ## Coaching skills
