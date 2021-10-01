@@ -324,7 +324,7 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 - [Understanding When to Give Feedback](https://hbr.org/2014/12/understanding-when-to-give-feedback) by **Harvard Business Review Editors**
 - [Research: Vague Feedback Is Holding Women Back](https://hbr.org/2016/04/research-vague-feedback-is-holding-women-back), **Harvard Business Review**
 
-## Strategic thinking
+## Strategic Thinking
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Strategic_thinking.png" width="900" height="100">
 
@@ -332,7 +332,7 @@ Strategic thinking is a process that enables you to work with your team on plans
 
 Develop these skills to make better decisions in the face of uncertainty.
 
-### Scaling questions
+### Scaling Questions
 
 Some common scaling questions to get you started:
 
@@ -354,6 +354,19 @@ So, teams with great strategic thinking skills have a habit of asking:
 - Where one would like those things to be by a certain date
 - What actions move the needle between those two points.
 
+### Gap Analysis
+
+**Spread the gap analysis habit to your team.**
+
+When managers ask their direct reports gap analysis questions, strategic thinking skills spread. They soon become part of the team’s way of communicating. This starts to happen even when their manager isn’t around. Sounds small, but makes a big difference.
+
+Your mission in the next few days is to find a way to ask your direct reports a gap analysis question. Choose one of these or create your own:
+- How are things currently going with [xyz project], 1-10 scale? What would move it one point?
+- How satisfied are you with [the amount of feedback you are getting]? What would move it one point?
+- How would you rate the usefulness of our 1-on-1s? What would move it one point?
+- How clear do you feel about your priorities? What would move it one point?
+
+That’s a wrap on first strategic thinking habit: **asking gap analysis** or **scaling questions**.
 
 ## Coaching skills
 
