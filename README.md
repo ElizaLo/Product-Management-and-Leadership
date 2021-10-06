@@ -13,9 +13,6 @@
 
 ### Other great books
 
-- [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) by Liz Wiseman
-    - https://thewisemangroup.com
-    - [Accidental Diminisher Quiz](https://thewisemangroup.com/quiz/) 
 - [Rise above the noise](http://www.amazon.com/Rise-Above-Noise-Marketing-Interview/dp/0615978428)
 - [Interview math](http://www.amazon.com/Interview-Math-Problems-Solutions-Questions/dp/0692361472)
 - [Thinkertoys](http://www.amazon.com/Thinkertoys-Handbook-Creative-Thinking-Techniques-Edition/dp/1580087736)
@@ -218,6 +215,21 @@ Examples of her day-to-day role as the VP of Product, including:
 - Balancing the various requests that come to her (e.g. production bugs, sales team requests, customers feature requests, etc)
 
 -------------------------------------
+
+# Great Management Books
+
+- [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) by Liz Wiseman
+    - https://thewisemangroup.com
+    - [Accidental Diminisher Quiz](https://thewisemangroup.com/quiz/)
+- [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) by Reed Hasting and Erin Meyer
+- [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/B0787F5CRM/ref=sr_1_1?crid=2VPHIGK9QMUVG&dchild=1&keywords=patty+mccord+powerful&qid=1633005177&sprefix=patty+mc%2Cstripbooks-intl-ship%2C274&sr=8-1) by Patty McCord
+
+## Other good books
+
+- [That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea](https://www.amazon.com/That-Will-Never-Work-Netflix/dp/0316530204/ref=pd_sbs_4/142-1174783-3580805?pd_rd_w=HyFvD&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=PHMMBAJGRM5EKC1AXD4C&pd_rd_r=bc1d15c1-e8c4-4f73-aad3-fbf30b60d386&pd_rd_wg=bxqPe&pd_rd_i=0316530204&psc=1) by Marc Randolph
+
+
+-------------------------------------------
 # Soft-skills for Manager
 
 ## Essential Feedback
