@@ -216,6 +216,16 @@ Examples of her day-to-day role as the VP of Product, including:
 
 -------------------------------------
 
+# Technical Manager
+
+- [Team Lead Roadmap](https://github.com/tlbootcamp/tlroadmap)
+
+## Project Management 
+
+- [Project management for non-project managers](https://www.atlassian.com/ru/project-management)
+
+--------------------------------------
+
 # Great Management Books
 
 - [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) by Liz Wiseman
@@ -337,6 +347,7 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 - [In Praise of Praising Your Employees](https://www.gallup.com/workplace/236951/praise-praising-employees.aspx?g_source=link_NEWSV9&g_medium=TOPIC&g_campaign=item_&g_content=In%2520Praise%2520of%2520Praising%2520Your%2520Employees)
 - [Understanding When to Give Feedback](https://hbr.org/2014/12/understanding-when-to-give-feedback) by **Harvard Business Review Editors**
 - [Research: Vague Feedback Is Holding Women Back](https://hbr.org/2016/04/research-vague-feedback-is-holding-women-back), **Harvard Business Review**
+- [The real reason your team won’t give you honest feedback](https://www.atlassian.com/blog/leadership/team-feedback), **Atlassian**
 
 ## Strategic Thinking
 
@@ -347,6 +358,18 @@ Strategic thinking is a process that enables you to work with your team on plans
 The key thing that great strategic thinkers do differently is that they pause (even if just for a minute) to think about how they are thinking. They pause to define terms, to contemplate what matters most, to create measurables, and to think about context, including asking, "Wait, what do we mean by this term?"
 
 Develop these skills to make better decisions in the face of uncertainty.
+
+### 'Red flags'
+
+Awareness of common red flags means you can avoid strategic mistakes.
+
+Pausing to think about the common mistakes - the red flags - will build awareness of your team’s habits. This creates what researchers call ‘contextual cueing’ for managers. You’ll begin to sense when a team member is about to make a strategic mistake, and can then take action to avoid it.
+
+In 1-on-1s or team meetings this week, begin asking your team questions like those:
+- What strategic thinking habits matter most for our team, in your opinion?
+- What are the most common strategic thinking mistakes you/we make?
+- When don’t we think strategically as a team?
+- What conditions create strategic mistakes?
 
 ### Scaling Questions
 
@@ -615,6 +638,8 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 |[Culture Amp Support Guide](https://support.cultureamp.com/hc/en-us)|Support Guide|
 |[Culture Amp](https://www.cultureamp.com/blog)|Expert insights on performance management, employee development and employee engagement for HR professionals and people leaders.|
 |[LifeLabs Learning](https://lifelabslearning.com)|Your company needs exceptional leaders and powerful teams. And your managers need the most essential skills in the shortest time. That’s our specialty at LifeLabs Learning.|
+|[Work Life](https://www.atlassian.com/blog)|Atlassian Blog|
+|[Products & News](https://www.atlassian.com/blog/product-news)|Atlassian Blog|
 
 ## GitHub Repositories :octocat:
 
