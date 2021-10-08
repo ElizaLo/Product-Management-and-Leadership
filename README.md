@@ -340,6 +340,7 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 |**Provide direct and helpful feedback**|<ul><p> ➡️ Be direct and constructive, so feedback come across clearly and respectfully</p><p>**Offer direct and helpful feedback for improvement.**</p><p>Attempting to soften a point when addressing tough or sensitive issues can result in misunderstandings. Tools like the 'feedback sandwich' have steered people off track by offering compliments on either side of bad news, and people misinterpreting what was intended.</p><p>_Why?_</p><p>Being direct, constructive, and straightforward with your message and its importance will be interpreted clearly and respectfully.</p><p>**Instructions**</p><li>Let your team member be aware you'd like to offer them some feedback for improvement.</li><li>Ensure you have clear examples of the behavior and it's impact, and how it's not useful in the situation.</li><li>Allow them time and space to hear the feedback, and to respond with their understanding of the situation and offer some insight into how or why it's occurring and solutions to prevent it in the future.</li><li>If required, offer examples of constructive ways of working they could adopt to prevent this happening in the future.</li><li>Agree what you both feel success would look after this conversation.</li><li>Agree to check in again within a 2 week period re progress, and again in 4 weeks as a measure of change.</li></ul>|
 |**What you say vs. how you say it**|<ul><p> ➡️ How you say something often has more impact than what you're saying</p><p>**It's not what you say, it's how you say it that often leaves more of an impact.**</p><p>Messages we send are often misinterpreted. This can be based on the words we have used, the behaviors or mannerisms we exhibit, and the tone being misread.</p><p>_Why?_</p><p>Some research suggests that when people are interpreting one another's communication they observe it broken down as: 7% is the words we speak, 38% is the tone we use (how you use your voice) and 55% is our body language and mannerisms. A lot of this interpretation is believed to be sub-conscious and automatic.</p><p>**Instructions**</p><p>Next time you have a colleague/ customer come towards you, consider how you can adjust your posture, facial expression and tone to have a more open-style approach.</p><li>Consider the impact of the way you hold yourself can have.</li><li>An open approach can see a better outcome with others.</li><li>Try softer eye contact, arms relaxed by your side (uncrossed), smiling, turning to face people, tilting your head or softening your voice.</li></ul>|
 |**Re-think your feedback cadence**|<ul><p> ➡️ Increase the cadence of feedback for employees</p><p>An example of this is to abandon performance ratings and create a more frequent and feedback-focused performance management process. Every quarter, every employee can sit down with their manager to give and receive feedback and discuss goals from the quarter prior and upcoming quarter. They can also discuss career pathing.</p><p>_Why?_</p><p>By increasing the cadence for feedback, you can ensure a regular discussion and status updates of how employees are feeling, and how they’re progressing against goals. This helps to address concerns immediately and to stop any tension or stress from festering.</p><p>**Instructions**</p><li>Set up a quarterly feedback session with each employee.</li><li>During each session, discuss the positives and negatives of the weeks gone by.</li><li>Set some goals for the following week and discuss what kind of blockers they will face.</li><li>Don’t forget to celebrate wins and give positive feedback.</li></ul>|
+|**Use the Playing Cards Method**|<ul><p> ➡️ Make feedback useful every time by being specific not blurry</p><p>**Each playing card suit represents a different type of feedback.**</p><p>The LifeLabs Learning Playing Cards Method is a framework that makes it easy to give useful feedback every time.</p><p>♣️ Club = negative, blurry feedback (e.g., “_you come across as rude._”)</p><p>♠️ Spade = negative, specific feedback (e.g., “_I noticed you spoke over me a few times during meeting, and I mention it because I found it hard to get my thoughts across._")</p><p>♥️ Heart = positive, blurry feedback (e.g., “_You crushed that sales call!_”)</p><p>♦️ Diamond = positive, specific feedback (e.g., “_I liked that you asked follow up questions to really understand the client’s needs._")</p><p>_Why?_</p><p>Most feedback fails to make an impact because it is too vague for us to apply. Be sure to give spades and diamonds only to make your feedback useful.</p><p>**Instructions**</p><p>Notice which type of feedback you give most often. Convert your clubs to spades and your hearts to diamonds.</p><p>**Pro tip:** If someone gives you a club or heart, ask them to de-blur it. For example, "_Thanks for the feedback! Would you please share an example so I better understand?_"</p></ul>|
 
 ### Web Sources
 
@@ -358,18 +359,6 @@ Strategic thinking is a process that enables you to work with your team on plans
 The key thing that great strategic thinkers do differently is that they pause (even if just for a minute) to think about how they are thinking. They pause to define terms, to contemplate what matters most, to create measurables, and to think about context, including asking, "Wait, what do we mean by this term?"
 
 Develop these skills to make better decisions in the face of uncertainty.
-
-### 'Red flags'
-
-Awareness of common red flags means you can avoid strategic mistakes.
-
-Pausing to think about the common mistakes - the red flags - will build awareness of your team’s habits. This creates what researchers call ‘contextual cueing’ for managers. You’ll begin to sense when a team member is about to make a strategic mistake, and can then take action to avoid it.
-
-In 1-on-1s or team meetings this week, begin asking your team questions like those:
-- What strategic thinking habits matter most for our team, in your opinion?
-- What are the most common strategic thinking mistakes you/we make?
-- When don’t we think strategically as a team?
-- What conditions create strategic mistakes?
 
 ### Scaling Questions
 
@@ -407,7 +396,17 @@ Your mission in the next few days is to find a way to ask your direct reports a 
 
 That’s a wrap on first strategic thinking habit: **asking gap analysis** or **scaling questions**.
 
+### 'Red flags'
 
+Awareness of common red flags means you can avoid strategic mistakes.
+
+Pausing to think about the common mistakes - the red flags - will build awareness of your team’s habits. This creates what researchers call ‘contextual cueing’ for managers. You’ll begin to sense when a team member is about to make a strategic mistake, and can then take action to avoid it.
+
+In 1-on-1s or team meetings this week, begin asking your team questions like those:
+- What strategic thinking habits matter most for our team, in your opinion?
+- What are the most common strategic thinking mistakes you/we make?
+- When don’t we think strategically as a team?
+- What conditions create strategic mistakes?
 
 ## Coaching skills
 
