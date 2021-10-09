@@ -218,6 +218,8 @@ Examples of her day-to-day role as the VP of Product, including:
 
 # Technical Manager
 
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Technical_Manager.png" width="900" height="100">
+
 - [Team Lead Roadmap](https://github.com/tlbootcamp/tlroadmap)
 
 ## Project Management 
@@ -227,6 +229,8 @@ Examples of her day-to-day role as the VP of Product, including:
 --------------------------------------
 
 # Great Management Books
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Management_Books.png" width="900" height="100">
 
 - [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) by Liz Wiseman
     - https://thewisemangroup.com
@@ -325,7 +329,7 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 - Asking questions to generate a genuine conversation
 - Seeking to understand feedback rather than responding defensively.
 
-### Ideas to improve on Feedback
+## Ideas to improve on Feedback
 
 | Title | Description |
 | :---:         |          :--- |
@@ -408,6 +412,12 @@ In 1-on-1s or team meetings this week, begin asking your team questions like tho
 - What are the most common strategic thinking mistakes you/we make?
 - When don’t we think strategically as a team?
 - What conditions create strategic mistakes?
+
+## Improve on Strategic Thinking
+
+| Title | Description |
+| :---:         |          :--- |
+|**Stop, start, continue**|<ul><p> ➡️ Shifts in behavior to drive the organization towards delivering objectives</p><p>**When asking the team to adopt the strategic priorities, think 'stop, start and continue'.**</p><p>A powerful way to shift and align people on how to deliver is to collectively agree to three behavioral changes. One to stop, one to start, and one to continue that everyone agrees will lead to success. One business recently hit a reset on their priorities and agreed that success can only happen if the entire team stopped arriving late to meetings (respecting each other's time), started fortnightly retros (assess on/off track) and continued their positive attitude (enjoy working together).</p><p>_Why?_</p><p>Teams need to see that how they are working is delivering impact or incrementally nudging the organization towards success. This comes from alignment of behavior and mindset.</p><p>**Instructions**</p><p>This can be done as a collective exercise, in person or through digital platforms for remote staff.</p><li>Ask everyone to take 5 minutes to reflect on the strategy, and how they'd like to contribute towards its implementation and their current way of working.</li><li>Take a further 10 minutes to write down three things they'd be willing to commit to: 1 x stop, 1 x start, 1 x continue.</li><li>Collect the responses into three piles.</li><li>As group/s, take 30 minutes to ask people to share their ideas and why.</li><li>As group/s, take 30 minutes to assess each pile, place up on a wall and group them into like-minded, share any further explanation.</li><li>Ensure each group shares with each other, so that everyone hears the ideas on each stop, start, continue.</li><li>Let everyone vote: which behavioral shift will have the biggest impact for success towards the strategic priorities being delivered. Everyone gets one vote for each stop, start and continue; three in total.</li><li>Assess which is the most popular and agree as a team to commit.</li><li>Take a further 5 minutes for each behavior to agree how success can be measured.</li></ul>|
 
 ## Coaching skills
 
