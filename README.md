@@ -413,7 +413,34 @@ In 1-on-1s or team meetings this week, begin asking your team questions like tho
 - When don’t we think strategically as a team?
 - What conditions create strategic mistakes?
 
-## Improve on Strategic Thinking
+Building awareness about strategic capacity is a great thing for a team.
+
+Research shows that teams who think strategically have a habit of thinking about the whole picture of a problem. They think about a full range of potential factors that may be contributing to it.
+
+In doing so, great strategic thinkers create solutions that last, rather than solutions that are short-sighted.
+
+### ‘3-lens analysis’
+
+Here’s how it works. Think about a project that someone is working on now and struggling with.
+
+Now, take 1 minute to look at this problem with different lenses. Flip through each lens (imagine the lenses eye doctors use when testing your vision):
+
+- **Lens 1: The person**
+
+In what ways (if any) might the individual be contributing to the problem? (Things like their workstyle, lack of skill, motivation, clarity.)
+
+- **Lens 2: You**
+
+In what ways (if any) might you be contributing to the problem? (Maybe you didn’t provide feedback, didn’t set clear expectations.)
+
+- **Lens 3: The team/ organisation**
+
+In what ways (if any) might the team/organisation/systems be contributing to the problem? (Things like interdependencies, unclear processes, conflicting priorities.)
+
+This 3 minute exercise of **_‘flipping through 3 lenses’_** helps train the brain to think through the many potential causes of a problem.
+This is what psychologists call **_‘multivariate thinking'_**. It means you can fix the problem - strategically - for the long haul.
+
+### Improve on Strategic Thinking
 
 | Title | Description |
 | :---:         |          :--- |
