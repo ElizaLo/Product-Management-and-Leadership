@@ -250,9 +250,11 @@ Examples of her day-to-day role as the VP of Product, including:
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/feedback.png" width="900" height="100">
 
-> Feedback is the process of helping others gain self-awareness about the impact of their actions.
+> Feedback is the process of helping others gain self-awareness about their actions and their impact
 
 The focus of feedback should be to help others to thrive. Good feedback speeds up learning and builds collaborative and engaged teams.
+
+Quality feedback speeds up learning, improves collaboration and increases engagement.
 
 A way to think about feedback that avoids this is as **'reinforcing'** or **'redirecting'**. In this framing, all feedback is positive.
 
@@ -359,9 +361,11 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/Strategic_thinking.png" width="900" height="100">
 
-Strategic thinking is a process that enables you to work with your team on plans to achieve your goals.
+Strategic thinking is a process that enables you to work with your team on plans to achieve your goals. Strategic thinking is a skill built through experience and observation.
 
 The key thing that great strategic thinkers do differently is that they pause (even if just for a minute) to think about how they are thinking. They pause to define terms, to contemplate what matters most, to create measurables, and to think about context, including asking, "Wait, what do we mean by this term?"
+
+Developing this type of thinking depends on focusing on trends, challenging the norm, provoking different perspective, questioning assumptions and reading between the lines - all aspects that take time and determination to practice.
 
 Develop these skills to make better decisions in the face of uncertainty.
 
@@ -440,11 +444,18 @@ In what ways (if any) might the team/organisation/systems be contributing to the
 This 3 minute exercise of **_‘flipping through 3 lenses’_** helps train the brain to think through the many potential causes of a problem.
 This is what psychologists call **_‘multivariate thinking'_**. It means you can fix the problem - strategically - for the long haul.
 
+Find a way to plant 3-lens questions into your 1-on-1s. Common questions you can ask direct reports are:
+- Should we look at this from different lenses?
+- What other perspectives could we take on this?
+- What are some other potential contributing factors we should consider?
+- Should we do a quick 3-lens analysis on this before diving in?
+
 ### Improve on Strategic Thinking
 
 | Title | Description |
 | :---:         |          :--- |
 |**Stop, start, continue**|<ul><p> ➡️ Shifts in behavior to drive the organization towards delivering objectives</p><p>**When asking the team to adopt the strategic priorities, think 'stop, start and continue'.**</p><p>A powerful way to shift and align people on how to deliver is to collectively agree to three behavioral changes. One to stop, one to start, and one to continue that everyone agrees will lead to success. One business recently hit a reset on their priorities and agreed that success can only happen if the entire team stopped arriving late to meetings (respecting each other's time), started fortnightly retros (assess on/off track) and continued their positive attitude (enjoy working together).</p><p>_Why?_</p><p>Teams need to see that how they are working is delivering impact or incrementally nudging the organization towards success. This comes from alignment of behavior and mindset.</p><p>**Instructions**</p><p>This can be done as a collective exercise, in person or through digital platforms for remote staff.</p><li>Ask everyone to take 5 minutes to reflect on the strategy, and how they'd like to contribute towards its implementation and their current way of working.</li><li>Take a further 10 minutes to write down three things they'd be willing to commit to: 1 x stop, 1 x start, 1 x continue.</li><li>Collect the responses into three piles.</li><li>As group/s, take 30 minutes to ask people to share their ideas and why.</li><li>As group/s, take 30 minutes to assess each pile, place up on a wall and group them into like-minded, share any further explanation.</li><li>Ensure each group shares with each other, so that everyone hears the ideas on each stop, start, continue.</li><li>Let everyone vote: which behavioral shift will have the biggest impact for success towards the strategic priorities being delivered. Everyone gets one vote for each stop, start and continue; three in total.</li><li>Assess which is the most popular and agree as a team to commit.</li><li>Take a further 5 minutes for each behavior to agree how success can be measured.</li></ul>|
+|**Share an A4 Strategy Sheet**|<ul><p> ➡️ Help others see the big picture with a one-page strategy snapshot</p><p>**Help your team link up work to big picture goals by creating an A4 Strategy Sheet for every project.**</p><p>An A4 is the size of a single sheet of paper. This is just the right amount of space to describe your initiative in detail without causing information overload.</p><p>_Why?_</p><p>We often lose sight of how our small, daily tasks impact big-picture goals and priorities. Many leaders either fail to help employees make the link or they overwhelm them with too many details.</p><p>**Instructions**</p><p>For each initiative you lead, create a single-page strategy snapshot, including:</p><li>What you are looking to achieve?</li><li>How you will measure success?</li><li>How the initiative links up to company-wide goals?</li><li>Who is involved?</li><li>And the major milestones.</li><li>[The LifeLabs one-page template](https://github.com/ElizaLo/Product-Management-and-Leadership/blob/main/Strategic%20thinking/LifeLabs%2BLearning%2BA4%2BStrategy%2BSheet.pdf) is a good starting point.</li><p> </p><p>**Pro-tip:** ask your direct reports to create an A4 for each project they are driving.</p></ul>|
 
 ## Coaching skills
 
