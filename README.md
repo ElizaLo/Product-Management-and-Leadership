@@ -688,6 +688,8 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 |[LifeLabs Learning](https://lifelabslearning.com)|Your company needs exceptional leaders and powerful teams. And your managers need the most essential skills in the shortest time. That’s our specialty at LifeLabs Learning.|
 |[Work Life](https://www.atlassian.com/blog)|Atlassian Blog|
 |[Products & News](https://www.atlassian.com/blog/product-news)|Atlassian Blog|
+|[Trello Blog](https://blog.trello.com)|Helping teams work better, together|
+|[Radical Candor](https://www.radicalcandor.com)|Based on the bestselling book Radical Candor that launched a global management revolution, our suite of products and services are designed to level up your skills, fix your feedback fails and support your Radical Candor journey.|
 
 ## GitHub Repositories :octocat:
 
@@ -701,6 +703,27 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 | :---         |          :--- |
 |[How Google Sold Its Engineers on Management](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management)|High-performing knowledge workers often question whether managers actually contribute much, especially in a technical environment. Until recently, that was the case at Google, a company filled with self-starters who viewed management as more destructive than beneficial and as a distraction from “real work.” But when Google’s people analytics team examined the value of managers, applying the same rigorous research methods the company uses in its operations, it proved the skeptics wrong. Mining data from employee surveys, performance reviews, and double-blind interviews, the team verified that managers indeed had a positive impact. It also pinpointed exactly how, identifying the eight key behaviors of great Google managers. In this article, Harvard Business School professor Garvin describes how Google has incorporated the detailed findings from the research into highly specific, concrete guidelines; classes; and feedback reports that help managers hone their essential skills. Because these tools were built from the ground up, using the staff’s own input, they’ve been embraced by Google employees. Managers say that they’ve found their training to be invaluable, and managers’ ratings from direct reports have steadily risen across the company.|
 | | |
+
+## Podcasts 🗣️ 🎧
+
+| Title | Description |
+| :---         |          :--- |
+|[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)| [**Guy Raz**](https://www.guyraz.com/about) is the founder and CEO of Built-It Productions, and an award-winning podcast host. He has interviewed over 200 highly successful entrepreneurs, innovators, and idealists to uncover their most impactful business stories.|
+|[Deep Questions](https://podcasts.apple.com/us/podcast/deep-questions-with-cal-newport/id1515786216)|Computer science professor and New York Times bestselling author, [**Cal Newport**](https://www.calnewport.com/podcast/) answers his podcast listener’s questions about work, technology, and his top-rated book, [**“Deep Work”**](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692).|
+|[Masters of Scale](https://mastersofscale.com/)|by Reid Hoffman an investor and Co-Founder of **LinkedIn** who gives his listeners an inside look at how companies grow and scale at large. By testing his theories with legendary leaders, he connects the dots between new entrepreneurial strategies and long-lived best practices.|
+|[Radical Candor](https://podcasts.apple.com/us/podcast/radical-candor/id1188489488?mt=2)|<ul><p>by Kim Scott, Jason Rosoff, and Amy Sandler</p><p>Host [Amy Sandler](https://www.radicalcandor.com/our-team/) challenges the status quo by teaching leaders how to practice the principles of [**Radical Candor**](https://www.radicalcandor.com/). This management philosophy is based on balancing empathy with direction to create a culture of feedback, empowerment, and cohesiveness.</p><p>Amy leads discussions with Radical Candor co-founders, Kim Scott and Jason Rosoff, about what it means to be Radically Candid, why it’s hard, and why it’s worth it.</p><p>Dive into actionable tips to help your team do their best work with empathic, specific, and sincere leadership.</p></ul>|
+|[The Broad Experience](http://www.thebroadexperience.com/)|This podcast features short, 25-minute episodes that spark candid conversations about professional careers and success in the workplace. Hosted by journalist [Ashley Milne-Tyte](https://www.ashleymilnetyte.com), “The Broad Experience” tackles some of the biggest issues facing women in business, work, and leadership. |
+|[The LEADx Leadership Show](https://podcasts.apple.com/bt/podcast/the-leadx-leadership-show-with-kevin-kruse/id1210859152)|This show features podcast host Kevin Kruse, who interviews top leadership experts and business executives to help you accelerate your career. |
+|[At The Table](https://www.tablegroup.com/at-the-table/)|**Patrick Lencioni** is one of the most notable experts in leadership and business. With his simplistic and approachable style, Patrick provides valuable insights into every work-related situation. |
+|[Hacking Your Leadership](https://www.hackingyourleadership.com/podcast)|Chris Stark and Lorenzo Flores share their expertise on leadership language focused on soft skills—like empathy, emotional intelligence, and a desire to make personal connections.|
+|[Dose of Leadership](https://podcasts.apple.com/us/podcast/dose-of-leadership-with-richard-rierson/id595566999)|This podcast is the ultimate leadership resource of inspiring, educational, and motivating interviews with real-world leaders by [**Richard Rierson**](https://doseofleadership.com/)|
+|[Teamistry](https://www.atlassian.com/blog/podcast/teamistry?_ga=2.144143733.1758773815.1634399362-704978328.1634399362)|Hosted by award-winning documentary and feature film director, [**Gabriela Cowperthwaite**](https://www.atlassian.com/podcast/extras?_ga=2.187134312.1758773815.1634399362-704978328.1634399362), “Teamistry” unveils the incredible behind-the-scenes stories of teams who joined together to achieve amazing human triumphs.|
+|[]()| |
+|[]()| |
+|[]()| |
+|[]()| |
+
+- [10 Podcasts That Every Leader Should Have In Their Listening Queue](https://blog.trello.com/podcasts-every-leader-should-listen-to?utm_source=newsletter&utm_medium=email&utm_campaign=trello-oct2021-newsletter1) by Trello Blog
 
 # Communities
 
