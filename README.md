@@ -369,7 +369,13 @@ Developing this type of thinking depends on focusing on trends, challenging the 
 
 Develop these skills to make better decisions in the face of uncertainty.
 
-### Scaling Questions
+### Structuring skills
+
+**Structuring skills:** the ability to create structure even when something is vague. 
+
+▶️ The tool? Gap analysis and scaling questions.
+
+#### Scaling Questions
 
 Some common scaling questions to get you started:
 
@@ -391,7 +397,7 @@ So, teams with great strategic thinking skills have a habit of asking:
 - Where one would like those things to be by a certain date
 - What actions move the needle between those two points.
 
-### Gap Analysis
+#### Gap Analysis
 
 **Spread the gap analysis habit to your team.**
 
@@ -405,7 +411,7 @@ Your mission in the next few days is to find a way to ask your direct reports a 
 
 That’s a wrap on first strategic thinking habit: **asking gap analysis** or **scaling questions**.
 
-### 'Red flags'
+#### 'Red flags'
 
 Awareness of common red flags means you can avoid strategic mistakes.
 
@@ -423,7 +429,13 @@ Research shows that teams who think strategically have a habit of thinking about
 
 In doing so, great strategic thinkers create solutions that last, rather than solutions that are short-sighted.
 
-### ‘3-lens analysis’
+### Contextualizing skills
+
+**Contextualizing skills:** the ability to look at the full picture before diving into the wrong solution. 
+
+▶️ The tool? 3-lens analysis.
+
+#### ‘3-lens analysis’
 
 Here’s how it works. Think about a project that someone is working on now and struggling with.
 
@@ -449,6 +461,21 @@ Find a way to plant 3-lens questions into your 1-on-1s. Common questions you can
 - What other perspectives could we take on this?
 - What are some other potential contributing factors we should consider?
 - Should we do a quick 3-lens analysis on this before diving in?
+
+Asking your team questions adds structure and context to a problem. With practice, team thinking can change.
+
+Some common questions to try adding to your everyday conversations with your team:
+- Let’s put some numbers on this! On a scale from 1-10, where are we at with xyz?
+- What’s the gap here - where are we now and where do we want to be?
+- What would create a 10% improvement? What would move us one point closer to our goal?
+- Let’s pause here before diving in… what lenses should we look at this problem from?
+- What else do we need to consider?
+- Should we do a 3-lens analysis on it, to make sure we’re working on the right fix?
+
+### Prediction skills
+
+**Prediction skills:** It’s the ability to think forward and anticipate issues before they come up.
+
 
 ### Improve on Strategic Thinking
 
@@ -681,7 +708,7 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 ## Web Sites
 
 | Title | Description |
-| :---         |          :--- |
+| :---:         |          :--- |
 |[re:Work](https://rework.withgoogle.com)|re:Work is a collection of practices, research, and ideas from Google and others to help you put people first.|
 |[Culture Amp Support Guide](https://support.cultureamp.com/hc/en-us)|Support Guide|
 |[Culture Amp](https://www.cultureamp.com/blog)|Expert insights on performance management, employee development and employee engagement for HR professionals and people leaders.|
@@ -694,20 +721,20 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 ## GitHub Repositories :octocat:
 
 | Title | Description |
-| :---         |          :--- |
+| :---:         |          :--- |
 |[awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)|Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.|
 
 ## Articles 
 
 | Title | Description |
-| :---         |          :--- |
+| :---:         |          :--- |
 |[How Google Sold Its Engineers on Management](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management)|High-performing knowledge workers often question whether managers actually contribute much, especially in a technical environment. Until recently, that was the case at Google, a company filled with self-starters who viewed management as more destructive than beneficial and as a distraction from “real work.” But when Google’s people analytics team examined the value of managers, applying the same rigorous research methods the company uses in its operations, it proved the skeptics wrong. Mining data from employee surveys, performance reviews, and double-blind interviews, the team verified that managers indeed had a positive impact. It also pinpointed exactly how, identifying the eight key behaviors of great Google managers. In this article, Harvard Business School professor Garvin describes how Google has incorporated the detailed findings from the research into highly specific, concrete guidelines; classes; and feedback reports that help managers hone their essential skills. Because these tools were built from the ground up, using the staff’s own input, they’ve been embraced by Google employees. Managers say that they’ve found their training to be invaluable, and managers’ ratings from direct reports have steadily risen across the company.|
 | | |
 
 ## Podcasts 🗣️ 🎧
 
 | Title | Description |
-| :---         |          :--- |
+| :---:         |          :--- |
 |[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)| [**Guy Raz**](https://www.guyraz.com/about) is the founder and CEO of Built-It Productions, and an award-winning podcast host. He has interviewed over 200 highly successful entrepreneurs, innovators, and idealists to uncover their most impactful business stories.|
 |[Deep Questions](https://podcasts.apple.com/us/podcast/deep-questions-with-cal-newport/id1515786216)|Computer science professor and New York Times bestselling author, [**Cal Newport**](https://www.calnewport.com/podcast/) answers his podcast listener’s questions about work, technology, and his top-rated book, [**“Deep Work”**](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692).|
 |[Masters of Scale](https://mastersofscale.com/)|by Reid Hoffman an investor and Co-Founder of **LinkedIn** who gives his listeners an inside look at how companies grow and scale at large. By testing his theories with legendary leaders, he connects the dots between new entrepreneurial strategies and long-lived best practices.|
@@ -718,10 +745,7 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 |[Hacking Your Leadership](https://www.hackingyourleadership.com/podcast)|Chris Stark and Lorenzo Flores share their expertise on leadership language focused on soft skills—like empathy, emotional intelligence, and a desire to make personal connections.|
 |[Dose of Leadership](https://podcasts.apple.com/us/podcast/dose-of-leadership-with-richard-rierson/id595566999)|This podcast is the ultimate leadership resource of inspiring, educational, and motivating interviews with real-world leaders by [**Richard Rierson**](https://doseofleadership.com/)|
 |[Teamistry](https://www.atlassian.com/blog/podcast/teamistry?_ga=2.144143733.1758773815.1634399362-704978328.1634399362)|Hosted by award-winning documentary and feature film director, [**Gabriela Cowperthwaite**](https://www.atlassian.com/podcast/extras?_ga=2.187134312.1758773815.1634399362-704978328.1634399362), “Teamistry” unveils the incredible behind-the-scenes stories of teams who joined together to achieve amazing human triumphs.|
-|[]()| |
-|[]()| |
-|[]()| |
-|[]()| |
+
 
 - [10 Podcasts That Every Leader Should Have In Their Listening Queue](https://blog.trello.com/podcasts-every-leader-should-listen-to?utm_source=newsletter&utm_medium=email&utm_campaign=trello-oct2021-newsletter1) by Trello Blog
 
@@ -732,7 +756,7 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 ## Slack Communities For Product Managers
 
 | Title | Description |
-| :---         |          :--- |
+| :---:         |          :--- |
 |[Product School](https://www.productschool.com/slack-community/)| |
 |[Slack Channel created by Lewis Lin](https://www.lewis-lin.com/blog/2018/7/8/lewis-c-lins-slack-community)| Already has over 5000 people looking for mock practice partners|
 |[FirstRound Talent](http://first%20round%20jobs)| (by invitation only)|
@@ -743,7 +767,7 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 ## Women’s communities
 
 | Title | Description |
-| :---         |          :--- |
+| :---:         |          :--- |
 |[Women in Product newsletter](http://www.womenpm.org/join/)|[Women in Product](https://www.facebook.com/groups/womeninproduct/) Facebook group|
 |[Women 2.0](https://women2.com/)| (more engineering focused but there’s the occasional PM role in there too)|
 |[Advancing Women in Product](https://www.facebook.com/advancingwomeninproduct/)| |
@@ -753,6 +777,6 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 ## Mailings
 
 | Title | Description |
-| :---         |          :--- |
+| :---:         |          :--- |
 |[Software Lead Weekly](https://softwareleadweekly.com)|A weekly email for busy people who care about people, culture and leadership.|
 
