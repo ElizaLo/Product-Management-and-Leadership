@@ -476,6 +476,24 @@ Some common questions to try adding to your everyday conversations with your tea
 
 **Prediction skills:** It’s the ability to think forward and anticipate issues before they come up.
 
+#### UC stands for ‘Unintended Consequences’
+
+Doing a UC check means you see potential problems before they happen.
+
+- Imagine this:
+
+A manager hops in to help direct reports rather than coach them. As an UC, direct reports don’t get to learn how to think more strategically about their own fixes. The manager is constantly needed and busy.
+
+- Picture this:
+
+A direct report cares so much about doing a great job and being a great contributor that they perfect their work before asking for any feedback. As an UC, people feel excluded from the process. Corrective feedback isn’t received on time. And the direct report feels surprised by reactions they didn't expect. The direct report would have been seen as a much more skillful contributor if they’d gotten feedback earlier, even with an imperfect draft. UC alert!
+
+UC checking is the bread and butter of great strategic thinkers.
+
+Try using the words ‘unintended consequences check’ at least once - even if in your own mind. Ask yourself:
+- “Should I/we pause to do a quick UC check on that?”
+- “Are there any UCs I’m not thinking of?”
+
 
 ### Improve on Strategic Thinking
 
@@ -483,6 +501,7 @@ Some common questions to try adding to your everyday conversations with your tea
 | :---:         |          :--- |
 |**Stop, start, continue**|<ul><p> ➡️ Shifts in behavior to drive the organization towards delivering objectives</p><p>**When asking the team to adopt the strategic priorities, think 'stop, start and continue'.**</p><p>A powerful way to shift and align people on how to deliver is to collectively agree to three behavioral changes. One to stop, one to start, and one to continue that everyone agrees will lead to success. One business recently hit a reset on their priorities and agreed that success can only happen if the entire team stopped arriving late to meetings (respecting each other's time), started fortnightly retros (assess on/off track) and continued their positive attitude (enjoy working together).</p><p>_Why?_</p><p>Teams need to see that how they are working is delivering impact or incrementally nudging the organization towards success. This comes from alignment of behavior and mindset.</p><p>**Instructions**</p><p>This can be done as a collective exercise, in person or through digital platforms for remote staff.</p><li>Ask everyone to take 5 minutes to reflect on the strategy, and how they'd like to contribute towards its implementation and their current way of working.</li><li>Take a further 10 minutes to write down three things they'd be willing to commit to: 1 x stop, 1 x start, 1 x continue.</li><li>Collect the responses into three piles.</li><li>As group/s, take 30 minutes to ask people to share their ideas and why.</li><li>As group/s, take 30 minutes to assess each pile, place up on a wall and group them into like-minded, share any further explanation.</li><li>Ensure each group shares with each other, so that everyone hears the ideas on each stop, start, continue.</li><li>Let everyone vote: which behavioral shift will have the biggest impact for success towards the strategic priorities being delivered. Everyone gets one vote for each stop, start and continue; three in total.</li><li>Assess which is the most popular and agree as a team to commit.</li><li>Take a further 5 minutes for each behavior to agree how success can be measured.</li></ul>|
 |**Share an A4 Strategy Sheet**|<ul><p> ➡️ Help others see the big picture with a one-page strategy snapshot</p><p>**Help your team link up work to big picture goals by creating an A4 Strategy Sheet for every project.**</p><p>An A4 is the size of a single sheet of paper. This is just the right amount of space to describe your initiative in detail without causing information overload.</p><p>_Why?_</p><p>We often lose sight of how our small, daily tasks impact big-picture goals and priorities. Many leaders either fail to help employees make the link or they overwhelm them with too many details.</p><p>**Instructions**</p><p>For each initiative you lead, create a single-page strategy snapshot, including:</p><li>What you are looking to achieve?</li><li>How you will measure success?</li><li>How the initiative links up to company-wide goals?</li><li>Who is involved?</li><li>And the major milestones.</li><li>[The LifeLabs one-page template](https://github.com/ElizaLo/Product-Management-and-Leadership/blob/main/Strategic%20thinking/LifeLabs%2BLearning%2BA4%2BStrategy%2BSheet.pdf) is a good starting point.</li><p> </p><p>**Pro-tip:** ask your direct reports to create an A4 for each project they are driving.</p></ul>|
+|**Build a mind map of scenarios**|<ul><p> ➡️ Build an outlook of scenarios to help you see long-term</p><p>We can be entrenched in our thinking about a product, process or customer, and keep business as usual with focus on the short-term. Drawing up potential long-term scenarios will help with planning, how to forecast potential changes to the business, and ways to address these.</p><p>_Why?_</p><p>Have a deeper insight into your staff, customers, industry and market, and the ability to motivate people to solve these.</p><p>**Instructions**</p><p>Using a piece of A3 paper, in the center write down the scenario you like to change e.g. people completing annual reviews on time.</p><li>From this center scenario, draw a new line for each potential outcome you could address to make it happen e.g. educate managers, educate staff, simplify the process, simplify the documentation, automate with new software.</li><li>From each of the outcomes you've identified - draw a further line and write down the first few steps to get this scenario active e.g. educate managers: (1) talk to our managers about concerns/ challenges they face (2) collate feedback with 3 key insights (3) look at how other companies educate their managers.</li></ul>|
 
 ## Coaching skills
 
