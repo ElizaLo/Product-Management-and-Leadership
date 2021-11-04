@@ -220,7 +220,10 @@ Examples of her day-to-day role as the VP of Product, including:
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Technical_Manager.png" width="900" height="100">
 
-- [Team Lead Roadmap](https://github.com/tlbootcamp/tlroadmap)
+| Title | Description |
+| :---:         |          :--- |
+|[Team Lead Roadmap](https://github.com/tlbootcamp/tlroadmap)|Roadmap|
+|[Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)|A list of engineering manager resource links.|
 
 ## Project Management 
 
@@ -504,6 +507,24 @@ In a pre-mortem, you flip the script. You think about an upcoming project that h
 - Imagine it failed. What caused it to fail? List a few ideas.
 - What’s a 10% mitigation you could do to buffer against this happening?
 
+What do pre-mortem questions look like in practice?
+
+Pre-mortem questions aren’t hard and don’t need to be like a formula. The goal is only to have a habit of pausing to ‘think forward’. This means doing a quick check for potential risks and blockers, and then creating mitigations.
+
+Here are some pre-mortem questions you could ask your team.
+
+- Let’s pause for a moment and think forward: what could get in the way of this project going well?
+- What might we be overlooking?
+- Imagine that this project would fail. What would cause it to fail?
+- What lack of information could set us back?
+- What are some of the risks or challenges we might not be thinking about but should be?
+- What’s one thing we can do to increase the chances of success by 10%?
+- What are some mitigations we can do to prevent issues from happening?
+
+With your team, share this: “Ok team, let’s do a quick pre-mortem on this before we dive in. Imagine we are looking into a crystal ball, and this project has failed. It’s a mess. Now, everybody, take 2 minutes and write down all the reasons why you think the project failed.”
+
+Collect the ideas, have the team vote on what they think the biggest risk is from the list. Then, brainstorm a list of mitigations for that top risk.
+
 
 ### Improve on Strategic Thinking
 
@@ -513,6 +534,7 @@ In a pre-mortem, you flip the script. You think about an upcoming project that h
 |**Share an A4 Strategy Sheet**|<ul><p> ➡️ Help others see the big picture with a one-page strategy snapshot</p><p>**Help your team link up work to big picture goals by creating an A4 Strategy Sheet for every project.**</p><p>An A4 is the size of a single sheet of paper. This is just the right amount of space to describe your initiative in detail without causing information overload.</p><p>_Why?_</p><p>We often lose sight of how our small, daily tasks impact big-picture goals and priorities. Many leaders either fail to help employees make the link or they overwhelm them with too many details.</p><p>**Instructions**</p><p>For each initiative you lead, create a single-page strategy snapshot, including:</p><li>What you are looking to achieve?</li><li>How you will measure success?</li><li>How the initiative links up to company-wide goals?</li><li>Who is involved?</li><li>And the major milestones.</li><li>[The LifeLabs one-page template](https://github.com/ElizaLo/Product-Management-and-Leadership/blob/main/Strategic%20thinking/LifeLabs%2BLearning%2BA4%2BStrategy%2BSheet.pdf) is a good starting point.</li><p> </p><p>**Pro-tip:** ask your direct reports to create an A4 for each project they are driving.</p></ul>|
 |**Build a mind map of scenarios**|<ul><p> ➡️ Build an outlook of scenarios to help you see long-term</p><p>We can be entrenched in our thinking about a product, process or customer, and keep business as usual with focus on the short-term. Drawing up potential long-term scenarios will help with planning, how to forecast potential changes to the business, and ways to address these.</p><p>_Why?_</p><p>Have a deeper insight into your staff, customers, industry and market, and the ability to motivate people to solve these.</p><p>**Instructions**</p><p>Using a piece of A3 paper, in the center write down the scenario you like to change e.g. people completing annual reviews on time.</p><li>From this center scenario, draw a new line for each potential outcome you could address to make it happen e.g. educate managers, educate staff, simplify the process, simplify the documentation, automate with new software.</li><li>From each of the outcomes you've identified - draw a further line and write down the first few steps to get this scenario active e.g. educate managers: (1) talk to our managers about concerns/ challenges they face (2) collate feedback with 3 key insights (3) look at how other companies educate their managers.</li></ul>|
 |**Start with 'Why?'**|<ul><p> ➡️ Use Simon Sinek's three Golden Circles to communicate.</p><p>'Start With Why' is Simon Sinek's mission to help others do work which inspires them, and uses real-world examples of great leaders to show you techniques in how they communicate their 'why' first, and how you can adopt their approach to inspire your team.</p><p>_Why?_</p><p>Great leaders and companies naturally get this right by starting all communication with 'why' they do things, eventually followed by 'how' they do things, until finally revealing 'what' it is they actually do.</p><p>**Instructions**</p><p>Draw up the 3 golden circles model, and have the team discuss and agree the following:</p><li>Look at the reason behind what you do, your 'why' e.g. Apple - to shake things up and make us think differently</li><li>Look at the way you do things, your 'how' e.g. Apple - beautifully designed technology</li><li>Look at what you actually do or produce, your 'what' e.g. Apple - iPads/ iPhones/ iWatch/ MacBook etc.</li><li>How can this be applied in communications with customers, and internally for new products and ideas?</li></ul>|
+|**Constrain to create**|<ul><p> ➡️ Impose constrains to promote innovative thinking</p><p>Imposing constraints can force you to come up with brilliant ideas faster.</p><p>The adage 'think outside the box' is often used to encourage blue sky thinking and limitless possibility. However, being urged to think outside the box rarely makes a difference to the solutions we eventually generate. A chef given an open brief to 'create a new menu for the winter' may find it difficult to generate anything original. But when given specific limitations such as only use seasonal products sourced locally and limit yourself to $20/ head, the creative juices begin flowing.</p><p>_Why?_</p><p>Every time new constraints are introduced, it sparks new ideas because it forces you into a direction you haven't considered before. Introducing constraints such as limiting the number of materials you use or imposing an ambitious timeline often forces you to create something original.</p><p>**Instructions**</p><p>The next time you are looking for a new solution to a problem, consider imposing some artificial constraints when brainstorming a solution, for example:</p><li>Limit yourself to 10% of the time allocated</li><li>Give yourself half the allocated budget</li><li>Develop a non-technical solution.</li></ul>|
 
 ## Coaching skills
 
