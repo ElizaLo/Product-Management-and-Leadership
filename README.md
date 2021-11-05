@@ -539,7 +539,7 @@ Collect the ideas, have the team vote on what they think the biggest risk is fro
 
 ## Productivity
 
-<img src=" " width="900" height="100">
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Productivity.png" width="900" height="100">
 
 Knowing how to harness more productive ways of working is essential for all managers.
 
