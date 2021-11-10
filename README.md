@@ -557,6 +557,46 @@ The most common productivity challenges they face fall into 4 categories:
 
 Understanding these categories will allow you to quickly diagnose and resolve issues for yourself and your team. You’ll make your life easier, and become an even better manager faster.
 
+**Great managers communicate time differently.**
+
+They model time integrity by being precise with their language. Your time awareness tool #1 is to use time language. Here’s how it’s done.
+
+- **Instead of saying:** “Shall we move onto the last item on the agenda?”
+    - **Say:** “In our last 10 minutes, shall we move onto the last item on the agenda?”
+- **Instead of saying:** “Can you send me that file ASAP?”
+    - **Say:** “Can you send me that file by 3pm (EST)?”
+- **Instead of saying:** “Do you have 2 seconds to chat about X?”
+    - **Say:** “Do you have 15 minutes to chat about X?”
+- **Instead of saying:** “This needs to be done today.”
+    - **Say:** “This needs to be done by 6pm today.”
+
+**Respecting time is as easy as choosing your words carefully.**
+
+In these examples the great managers avoided using ‘blurry’ time language. These are things like ‘ASAP’, ‘2 seconds’ or ‘EOD’. Instead they used clear and precise language. Doing so allowed them to get aligned, avoid misunderstanding, and show respect for their team's time.
+
+**How will you clearly communicate time?**
+
+To make a habit of using precise time language, you can share your commitment to ‘time integrity’. Try saying something like “I want to make an effort to be more precise in my communication around time”.
+
+Or start ‘deblurring’ or clarifying time words. For example, when someone asks you if you have “one moment,” you can say: “I have 5 minutes right now or we can discuss it in our 1-on-1. Which do you prefer?”
+
+If someone asks for a favor and promises that “it will take you no time at all,” you can bring time awareness into the conversation.
+
+Do this by saying, “I want to make sure I can follow through if I say yes. Can I ask some questions to make sure I have enough time to help?”
+
+To make a habit of using precise time language, you can share your commitment to ‘time integrity’. Try saying something like “I want to make an effort to be more precise in my communication around time”.
+
+Or start ‘deblurring’ or clarifying time words. For example, when someone asks you if you have “one moment,” you can say: “I have 5 minutes right now or we can discuss it in our 1-on-1. Which do you prefer?”
+
+If someone asks for a favor and promises that “it will take you no time at all,” you can bring time awareness into the conversation.
+
+Do this by saying, “I want to make sure I can follow through if I say yes. Can I ask some questions to make sure I have enough time to help?”
+
+As you go about your day, take the time to notice how the team is talking about time. When you see unclear time communication:
+
+- Model ‘time integrity’ by catching and ‘de-blurring’ your own time language
+- Ask your team a time integrity question (for example, “what does EOW mean to you?”)
+
 ### Improve on Productivity
 
 | Title | Description |
