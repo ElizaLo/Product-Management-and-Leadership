@@ -597,10 +597,31 @@ As you go about your day, take the time to notice how the team is talking about 
 - Model ‘time integrity’ by catching and ‘de-blurring’ your own time language
 - Ask your team a time integrity question (for example, “what does EOW mean to you?”)
 
+**One of the most effective things a manager can do to create shared time awareness is to simply make sure meetings run on time.**
+
+Starting and stopping meetings on time is your time awareness tool #2.
+
+This behavior has a positive 'domino effect' on the rest of your organization. Doing it yourself spreads the habit. It also sends a signal that time integrity is a normal part of work rather than an occasional pleasant surprise.
+
+**How to adopt the habit of running meetings on time.**
+
+Before introducing changes into your meeting norms, set the context for your team. To ‘frame’ the conversation, you could say:
+
+_“To model time integrity and respect your time, I would like to introduce a new norm of starting and stopping our meetings on time. Here’s what I was thinking [insert suggestion], and I would also love to hear from you and see what other ideas you have.”_
+
+Now you have the context for the change, here are some tips to help you make it happen.
+
+- Start on time, even if only a few participants are present
+- Ask people to assign time estimates to each agenda item
+- Choose a timekeeper and/or use an audible timer to keep everyone on track
+- Put a clock in the room or add a countdown on the digital screen
+- Lock the door (physically or digitally) when the meeting starts, making it impossible for late participants to join
+
 ### Improve on Productivity
 
 | Title | Description |
 | :---:         |          :--- |
+|**Urgent vs. Important**|<ul><p> ➡️ 4 quadrants to label tasks and prioritize time more effectively.</p><p>**Eisenhower, ex-President of the US, is quoted saying 'that which is important is seldom ever urgent, and that which is urgent is seldom ever important'.**</p><p>He developed a 4-part decision matrix to label tasks as high/ low urgency and high/ low importance, which has enabled people to prioritize their time more effectively. Urgent tasks are the ones that need to be dealt with immediately. Important tasks are the ones that contribute to long-term missions and goals. We often allow urgent to trump important because of our own or others poor time management.</p><p>_Why?_</p><p>Taking this approach allows you to be more efficient with your time. You have a limited amount of time in your week, so it is worth considering how you will set aside time for important tasks. You might need to set a deadline for tasks before they become urgent, and blocks of time to complete. Alternatively, you could try setting reminders or ask others to review the work so stick to deadlines.</p><p>**Instructions**</p><p>For each of the four quadrants of this matrix you can try a different approach:</p><li>**High Urgency/ High Importance:** **_DO_** tasks or often termed firefighting, meeting a deadline or approval before close of business.</li><li>**High Urgency/ Low Importance:** **_DELEGATE_** tasks and usually urgent due to the impact of others, like a team member missing a deadline putting everyone else behind or tasks that can be delegated like admin.</li><li>**Low Urgency/ High Importance:** **_DECIDE_** tasks often planning tasks like strategy presentations, research and consistency of looking after own wellbeing. Actively deciding when to start, update and complete these to ensure they are managing over time. These need time in the week to be a priority.</li><li>**Low Urgency/ Low Importance:** **_DELETE_** tasks or time wasters like social media, office chit chat, or clearing emails.</li></ul>|
 
 ## Coaching skills
 
