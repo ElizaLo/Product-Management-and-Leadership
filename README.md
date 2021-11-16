@@ -617,11 +617,45 @@ Now you have the context for the change, here are some tips to help you make it 
 - Put a clock in the room or add a countdown on the digital screen
 - Lock the door (physically or digitally) when the meeting starts, making it impossible for late participants to join
 
+2 ways to increase your team’s time awareness:
+
+- Using precise time language
+- Start/stopping meetings on time
+
+**What does a time audit look like?**
+
+Track your activities and their impact at 30-minute intervals. Track the time from when you get up to when you go to bed. You could do the audit throughout the day, at different points in the day, or at the end of the day.
+
+You can choose one of the many time audit apps available or use a simple spreadsheet. In your audit you can track:
+- The time period
+- What you were doing
+- If it was planned or reactive
+- How it affected your energy levels (energised, neutral or drained)
+
+Knowing exactly how you spend your time has real benefits.
+
+While time audits call for deliberate action, the benefits are much greater than the effort invested. Time audits increase awareness of:
+- Where your time goes
+- What you’re doing with your time
+- What tasks energize or drain you
+- When are you most productive
+
+When the team shares their insights with you, it’s a great coaching opportunity around time awareness.
+
+Here’s some questions you could ask. Choose 1 or more of these questions to ask your team at the end of the audit.
+- Did anything surprise you?
+- Are there activities you should make sure you make time for in the future?
+- Are there activities you can batch-process/consolidate to be more efficient?
+- Are there certain times of the day you’re more productive than other times?
+- Are some of us doing certain tasks much faster or slower?How can we learn from each other or better distribute responsibilities?
+
+
 ### Improve on Productivity
 
 | Title | Description |
 | :---:         |          :--- |
 |**Urgent vs. Important**|<ul><p> ➡️ 4 quadrants to label tasks and prioritize time more effectively.</p><p>**Eisenhower, ex-President of the US, is quoted saying 'that which is important is seldom ever urgent, and that which is urgent is seldom ever important'.**</p><p>He developed a 4-part decision matrix to label tasks as high/ low urgency and high/ low importance, which has enabled people to prioritize their time more effectively. Urgent tasks are the ones that need to be dealt with immediately. Important tasks are the ones that contribute to long-term missions and goals. We often allow urgent to trump important because of our own or others poor time management.</p><p>_Why?_</p><p>Taking this approach allows you to be more efficient with your time. You have a limited amount of time in your week, so it is worth considering how you will set aside time for important tasks. You might need to set a deadline for tasks before they become urgent, and blocks of time to complete. Alternatively, you could try setting reminders or ask others to review the work so stick to deadlines.</p><p>**Instructions**</p><p>For each of the four quadrants of this matrix you can try a different approach:</p><li>**High Urgency/ High Importance:** **_DO_** tasks or often termed firefighting, meeting a deadline or approval before close of business.</li><li>**High Urgency/ Low Importance:** **_DELEGATE_** tasks and usually urgent due to the impact of others, like a team member missing a deadline putting everyone else behind or tasks that can be delegated like admin.</li><li>**Low Urgency/ High Importance:** **_DECIDE_** tasks often planning tasks like strategy presentations, research and consistency of looking after own wellbeing. Actively deciding when to start, update and complete these to ensure they are managing over time. These need time in the week to be a priority.</li><li>**Low Urgency/ Low Importance:** **_DELETE_** tasks or time wasters like social media, office chit chat, or clearing emails.</li></ul>|
+|**Eat the frog**|<ul><p> ➡️ Get the task you resist most completed first, to minimize time wasting</p><p>**Complete the task you are resisting most, first thing in the morning.**</p><p>The time and energy spent delaying a task is often more than the effort it takes to complete it. 'Eat the frog' refers to the slimiest or trickiest task you need to do, and was coined by Brian Tracy in his best-selling book.</p><p>_Why?_</p><p>Mornings are typically when people are most productive and also ensures that the task doesn't weigh over you for the rest of the day.</p><p>**Instructions**</p><li>Do the task you're most avoiding first thing in the morning. This is before emails, distractions and other priorities come in.</li><li>Can you see what difference this makes with a routine task of your role, or something you have been resisting lately?</li></ul>|
 
 ## Coaching skills
 
