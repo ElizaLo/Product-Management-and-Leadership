@@ -649,6 +649,23 @@ Here’s some questions you could ask. Choose 1 or more of these questions to as
 - Are there certain times of the day you’re more productive than other times?
 - Are some of us doing certain tasks much faster or slower?How can we learn from each other or better distribute responsibilities?
 
+### 'MIT method’ (most important tasks)
+
+The basic idea is to start (or end) your day by writing down the 3 most important tasks you hope to accomplish in the next 24 hours.
+
+**How hard is it to say “no”?**
+
+One of the great benefits of creating an MIT list is that it allows you not only to prioritize what’s most urgent and important, it also helps you stay disciplined. It becomes easier to say no to requests that are less of a priority.
+
+**Spread the habit by asking your team to name their MITs, and do it often.**
+
+To really make the most of the tool you can:
+- ask about MITs as a coaching question in your 1-on-1s
+- start daily team meetings with an MIT review
+- use MITs as a tool to align on priorities with your team, manager, and other leaders across the organization.
+
+In the morning, note down your 3 MITs and end your day by checking off your list and ceremoniously putting it in the trash.
+
 
 ### Improve on Productivity
 
@@ -656,6 +673,7 @@ Here’s some questions you could ask. Choose 1 or more of these questions to as
 | :---:         |          :--- |
 |**Urgent vs. Important**|<ul><p> ➡️ 4 quadrants to label tasks and prioritize time more effectively.</p><p>**Eisenhower, ex-President of the US, is quoted saying 'that which is important is seldom ever urgent, and that which is urgent is seldom ever important'.**</p><p>He developed a 4-part decision matrix to label tasks as high/ low urgency and high/ low importance, which has enabled people to prioritize their time more effectively. Urgent tasks are the ones that need to be dealt with immediately. Important tasks are the ones that contribute to long-term missions and goals. We often allow urgent to trump important because of our own or others poor time management.</p><p>_Why?_</p><p>Taking this approach allows you to be more efficient with your time. You have a limited amount of time in your week, so it is worth considering how you will set aside time for important tasks. You might need to set a deadline for tasks before they become urgent, and blocks of time to complete. Alternatively, you could try setting reminders or ask others to review the work so stick to deadlines.</p><p>**Instructions**</p><p>For each of the four quadrants of this matrix you can try a different approach:</p><li>**High Urgency/ High Importance:** **_DO_** tasks or often termed firefighting, meeting a deadline or approval before close of business.</li><li>**High Urgency/ Low Importance:** **_DELEGATE_** tasks and usually urgent due to the impact of others, like a team member missing a deadline putting everyone else behind or tasks that can be delegated like admin.</li><li>**Low Urgency/ High Importance:** **_DECIDE_** tasks often planning tasks like strategy presentations, research and consistency of looking after own wellbeing. Actively deciding when to start, update and complete these to ensure they are managing over time. These need time in the week to be a priority.</li><li>**Low Urgency/ Low Importance:** **_DELETE_** tasks or time wasters like social media, office chit chat, or clearing emails.</li></ul>|
 |**Eat the frog**|<ul><p> ➡️ Get the task you resist most completed first, to minimize time wasting</p><p>**Complete the task you are resisting most, first thing in the morning.**</p><p>The time and energy spent delaying a task is often more than the effort it takes to complete it. 'Eat the frog' refers to the slimiest or trickiest task you need to do, and was coined by Brian Tracy in his best-selling book.</p><p>_Why?_</p><p>Mornings are typically when people are most productive and also ensures that the task doesn't weigh over you for the rest of the day.</p><p>**Instructions**</p><li>Do the task you're most avoiding first thing in the morning. This is before emails, distractions and other priorities come in.</li><li>Can you see what difference this makes with a routine task of your role, or something you have been resisting lately?</li></ul>|
+|**Change the rules**|<ul><p> ➡️ Change the the way of working to be more productive</p><p>**Identify rules in your organization that hinder team productivity and empower people to improve or create new rules.**</p><p>Processes should simplify your business. Excess procedures will suffocate it.</p><p>_Why?_</p><p>Agree and demolish the unwritten ways of working that are based on assumptions, complicated process or annoying behaviours.</p><p>**Instructions**</p><p>Lisa Bodell from FutureThink explains a process to 'change the rules' as:</p></ul><ol><li>Brainstorm with your team answers to the question: If you could get rid of any rule, either remove it or change it, what would you do and why?</li><li>Let them know there are red rules, that cannot be touched (e.g. legal, government regulations). Everything else is a green rule, and open to challenge.</li><li>Listen. You'll hear what has been holding people back, assumptions they have, process flaws, and what annoys them most. Most of these things aren't even rules to begin with.</li><li>Group the answers into themes.</li><li>Ask each team member to write down the ONE rule they would like to see change that would make a big difference.</li><li>Ask each team member to place their post it on a value/effort decision matrix and see what emerges.</li><li>Facilitate discussion on what has low effort/ high value and how to prioritize/ break down barriers to take action.</li></ol>|
 
 ## Coaching skills
 
@@ -890,6 +908,7 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 |[Products & News](https://www.atlassian.com/blog/product-news)|Atlassian Blog|
 |[Trello Blog](https://blog.trello.com)|Helping teams work better, together|
 |[Radical Candor](https://www.radicalcandor.com)|Based on the bestselling book Radical Candor that launched a global management revolution, our suite of products and services are designed to level up your skills, fix your feedback fails and support your Radical Candor journey.|
+|[FutureThink](https://www.futurethink.com)|Accelerated Skill-Building|
 
 ## GitHub Repositories :octocat:
 
