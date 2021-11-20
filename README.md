@@ -336,6 +336,12 @@ _"Are you looking for feedback on the strategic direction? Or more on spelling a
 
 ## Ideas to improve on Feedback
 
+Deliver effective feedback to your team members that allows them to understand it, reflect on it, and learn from it to make change for the better.
+
+**Feedback is the process of helping others gain self-awareness about their actions and their impact**
+
+Quality feedback speeds up learning, improves collaboration and increases engagement.
+
 | Title | Description |
 | :---:         |          :--- |
 |**Hold kick offs and retros**|<ul><p> ➡️ Ritualize feedback by holding kick offs and retros for every project</p>**Normalize feedback sharing and accelerate team performance by starting all major projects with a kick off.** <p> These sessions where you define project outcomes (including productivity and learning goals).</p><p> Next, schedule your project retrospective, reviewing what went well and what could have been better.</p><p> _Why?_ </p><p>Research on surgical teams shows that taking time to reflect and learn from successes and failures improves performance even more than getting additional practice!</p><p>**Instructions**</p><li>Schedule a 30-90 minute meeting at the start and end of major projects.</li><li>For **kick-off** meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BKick%2BOff.pdf) to structure.</li><li>For retrospective meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BRetro.pdf) to structure.</li><li>Invite all stakeholders.</li><li>Explain that your goal is to align on project success, then pause to reflect, share feedback, and extract the learning.</li></ul>|
@@ -528,6 +534,12 @@ Collect the ideas, have the team vote on what they think the biggest risk is fro
 
 ### Improve on Strategic Thinking
 
+Work with your team to develop an agreed approach and plan towards achieving a desired outcome and goals. Build skills in critical thinking, analysis, creativity and innovation.
+
+**Strategic thinking is a skill built through experience and observation**
+
+Developing this type of thinking depends on focusing on trends, challenging the norm, provoking different perspective, questioning assumptions and reading between the lines - all aspects that take time and determination to practice.
+
 | Title | Description |
 | :---:         |          :--- |
 |**Stop, start, continue**|<ul><p> ➡️ Shifts in behavior to drive the organization towards delivering objectives</p><p>**When asking the team to adopt the strategic priorities, think 'stop, start and continue'.**</p><p>A powerful way to shift and align people on how to deliver is to collectively agree to three behavioral changes. One to stop, one to start, and one to continue that everyone agrees will lead to success. One business recently hit a reset on their priorities and agreed that success can only happen if the entire team stopped arriving late to meetings (respecting each other's time), started fortnightly retros (assess on/off track) and continued their positive attitude (enjoy working together).</p><p>_Why?_</p><p>Teams need to see that how they are working is delivering impact or incrementally nudging the organization towards success. This comes from alignment of behavior and mindset.</p><p>**Instructions**</p><p>This can be done as a collective exercise, in person or through digital platforms for remote staff.</p><li>Ask everyone to take 5 minutes to reflect on the strategy, and how they'd like to contribute towards its implementation and their current way of working.</li><li>Take a further 10 minutes to write down three things they'd be willing to commit to: 1 x stop, 1 x start, 1 x continue.</li><li>Collect the responses into three piles.</li><li>As group/s, take 30 minutes to ask people to share their ideas and why.</li><li>As group/s, take 30 minutes to assess each pile, place up on a wall and group them into like-minded, share any further explanation.</li><li>Ensure each group shares with each other, so that everyone hears the ideas on each stop, start, continue.</li><li>Let everyone vote: which behavioral shift will have the biggest impact for success towards the strategic priorities being delivered. Everyone gets one vote for each stop, start and continue; three in total.</li><li>Assess which is the most popular and agree as a team to commit.</li><li>Take a further 5 minutes for each behavior to agree how success can be measured.</li></ul>|
@@ -668,6 +680,12 @@ In the morning, note down your 3 MITs and end your day by checking off your list
 
 
 ### Improve on Productivity
+
+Manage your own and the team's workload and energy levels to maximize outputs, quality delivery and personal wellbeing.
+
+**Knowing how to harness more productive ways of working is essential for all managers**
+
+Apply tested time management hacks, be aware of your impact on others, learn how to communicate priorities to your team and recognize how to optimize broken processes to strengthen skills in this area.
 
 | Title | Description |
 | :---:         |          :--- |
