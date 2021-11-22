@@ -678,6 +678,42 @@ To really make the most of the tool you can:
 
 In the morning, note down your 3 MITs and end your day by checking off your list and ceremoniously putting it in the trash.
 
+### Bucket Method
+
+Creating ‘buckets’ of work tasks helps your team make sense of all the things they need to do.
+- First, encourage your team members to pick their main ‘bucket’ or area of focus for the quarter. These buckets are their main objectives. (Help them define them if needed.)
+- Next, under each bucket have them outline what goals each bucket links to.
+- Then, every day, have them fill in the tasks they need to complete to make progress in each bucket.
+
+_**For example:_**
+
+**Bucket 1: Build app**
+
+- **Goals this quarter:** Add 3 new features
+- **Tasks for today:** Interview sales team to understand client needs
+
+**Bucket 2: Onboard new hires**
+
+- **Goals this quarter:** 4 weeks to proficiency
+- **Tasks for today:** Create checklist for first week of onboarding
+
+**Bucket 3: Develop my team**
+
+- **Goals this quarter:** Engagement score of 90%
+- **Tasks for today:** Give feedback to each team member, announce shadowing program
+
+**Coaching around the bucket method helps cement it in the working day.**
+
+When you’ve helped your team members create their buckets, get more out of this productivity tool faster by asking coaching questions. Choose 1 of the following example questions to ask your team.
+
+- What are your buckets for this quarter?
+- What made you choose these?
+- How do you define success for each one?
+- What percentage of your time has been going to each bucket?
+- What else have you been doing other than work in these three buckets?
+- Does it make sense to adjust your buckets or find ways to reduce or remove the other activities
+- How can you push back on requests so it’s possible to stick to your priorities?
+
 
 ### Improve on Productivity
 
