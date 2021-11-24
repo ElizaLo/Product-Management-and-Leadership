@@ -224,6 +224,7 @@ Examples of her day-to-day role as the VP of Product, including:
 | :---:         |          :--- |
 |[Team Lead Roadmap](https://github.com/tlbootcamp/tlroadmap)|Roadmap|
 |[Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)|A list of engineering manager resource links.|
+|[awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management)|Pointers and tools for learning and day-to-day practice of engineering management & leadership.|
 
 ## Project Management 
 
@@ -713,6 +714,30 @@ When you’ve helped your team members create their buckets, get more out of thi
 - What else have you been doing other than work in these three buckets?
 - Does it make sense to adjust your buckets or find ways to reduce or remove the other activities
 - How can you push back on requests so it’s possible to stick to your priorities?
+
+###  ‘Consistent Capture System’ or CCS
+
+Encourage your team members to _‘close the loop’_.
+
+When it comes to work, most people’s minds are full of _‘open loops’_. These are swirling reminders and snippets of information.
+
+The solution to all these open loops is to encourage your team members to create a **‘consistent capture system’** or **CCS**. This is a concept inspired by author [David Allen](https://www.goodreads.com/book/show/1633.Getting_Things_Done). A CCS is a reliable, go-to place to record information instead of storing it in memory. The most important CCS types capture:
+- To-do items
+- Appointments
+- Deadlines
+- Notes (including key points, ideas, and instructions)
+
+Your mission is to close the loop by committing to using a single CCS and embed the tool in your team.
+- First, be sure to keep yourself organized and model good organization habits by having a CCS of your own. Write down and commit to a single tool to capture your to-do items.
+- If your team members don’t already have a CCS, encourage them to experiment with options. They should pick the CCS that works best for their brains and stick to it.
+
+Recording information in a single, reliable place may seem like a small thing. But it can have real impact.
+
+The value of creating a great CCS for your team is that you can set their minds free. They’ll be free to:
+- solve problems
+- detect patterns
+- develop relationships
+- generate new ideas
 
 
 ### Improve on Productivity
