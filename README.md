@@ -343,6 +343,11 @@ Deliver effective feedback to your team members that allows them to understand i
 
 Quality feedback speeds up learning, improves collaboration and increases engagement.
 
+#### 🗺️ 
+
+| Title | Description |
+| :---:         |          :--- |
+
 | Title | Description |
 | :---:         |          :--- |
 |**Hold kick offs and retros**|<ul><p> ➡️ Ritualize feedback by holding kick offs and retros for every project</p>**Normalize feedback sharing and accelerate team performance by starting all major projects with a kick off.** <p> These sessions where you define project outcomes (including productivity and learning goals).</p><p> Next, schedule your project retrospective, reviewing what went well and what could have been better.</p><p> _Why?_ </p><p>Research on surgical teams shows that taking time to reflect and learn from successes and failures improves performance even more than getting additional practice!</p><p>**Instructions**</p><li>Schedule a 30-90 minute meeting at the start and end of major projects.</li><li>For **kick-off** meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BKick%2BOff.pdf) to structure.</li><li>For retrospective meetings [use a template](https://github.com/ElizaLo/Product-Management/blob/main/FeedBack/LifeLabs%2BLearning%2BProject%2BRetro.pdf) to structure.</li><li>Invite all stakeholders.</li><li>Explain that your goal is to align on project success, then pause to reflect, share feedback, and extract the learning.</li></ul>|
@@ -541,6 +546,11 @@ Work with your team to develop an agreed approach and plan towards achieving a d
 
 Developing this type of thinking depends on focusing on trends, challenging the norm, provoking different perspective, questioning assumptions and reading between the lines - all aspects that take time and determination to practice.
 
+#### 🗺️ 
+
+| Title | Description |
+| :---:         |          :--- |
+
 | Title | Description |
 | :---:         |          :--- |
 |**Stop, start, continue**|<ul><p> ➡️ Shifts in behavior to drive the organization towards delivering objectives</p><p>**When asking the team to adopt the strategic priorities, think 'stop, start and continue'.**</p><p>A powerful way to shift and align people on how to deliver is to collectively agree to three behavioral changes. One to stop, one to start, and one to continue that everyone agrees will lead to success. One business recently hit a reset on their priorities and agreed that success can only happen if the entire team stopped arriving late to meetings (respecting each other's time), started fortnightly retros (assess on/off track) and continued their positive attitude (enjoy working together).</p><p>_Why?_</p><p>Teams need to see that how they are working is delivering impact or incrementally nudging the organization towards success. This comes from alignment of behavior and mindset.</p><p>**Instructions**</p><p>This can be done as a collective exercise, in person or through digital platforms for remote staff.</p><li>Ask everyone to take 5 minutes to reflect on the strategy, and how they'd like to contribute towards its implementation and their current way of working.</li><li>Take a further 10 minutes to write down three things they'd be willing to commit to: 1 x stop, 1 x start, 1 x continue.</li><li>Collect the responses into three piles.</li><li>As group/s, take 30 minutes to ask people to share their ideas and why.</li><li>As group/s, take 30 minutes to assess each pile, place up on a wall and group them into like-minded, share any further explanation.</li><li>Ensure each group shares with each other, so that everyone hears the ideas on each stop, start, continue.</li><li>Let everyone vote: which behavioral shift will have the biggest impact for success towards the strategic priorities being delivered. Everyone gets one vote for each stop, start and continue; three in total.</li><li>Assess which is the most popular and agree as a team to commit.</li><li>Take a further 5 minutes for each behavior to agree how success can be measured.</li></ul>|
@@ -569,6 +579,8 @@ The most common productivity challenges they face fall into 4 categories:
 - Focus
 
 Understanding these categories will allow you to quickly diagnose and resolve issues for yourself and your team. You’ll make your life easier, and become an even better manager faster.
+
+### Time awareness
 
 **Great managers communicate time differently.**
 
@@ -662,7 +674,9 @@ Here’s some questions you could ask. Choose 1 or more of these questions to as
 - Are there certain times of the day you’re more productive than other times?
 - Are some of us doing certain tasks much faster or slower?How can we learn from each other or better distribute responsibilities?
 
-### 'MIT method’ (most important tasks)
+### Prioritization
+
+#### 'MIT method’ (most important tasks)
 
 The basic idea is to start (or end) your day by writing down the 3 most important tasks you hope to accomplish in the next 24 hours.
 
@@ -679,7 +693,7 @@ To really make the most of the tool you can:
 
 In the morning, note down your 3 MITs and end your day by checking off your list and ceremoniously putting it in the trash.
 
-### Bucket Method
+#### Bucket Method
 
 Creating ‘buckets’ of work tasks helps your team make sense of all the things they need to do.
 - First, encourage your team members to pick their main ‘bucket’ or area of focus for the quarter. These buckets are their main objectives. (Help them define them if needed.)
@@ -715,7 +729,9 @@ When you’ve helped your team members create their buckets, get more out of thi
 - Does it make sense to adjust your buckets or find ways to reduce or remove the other activities
 - How can you push back on requests so it’s possible to stick to your priorities?
 
-###  ‘Consistent Capture System’ or CCS
+### Organization
+
+####  ‘Consistent Capture System’ or CCS
 
 Encourage your team members to _‘close the loop’_.
 
@@ -739,6 +755,18 @@ The value of creating a great CCS for your team is that you can set their minds 
 - develop relationships
 - generate new ideas
 
+**Ask ‘who, what, where’ questions and get commitments made.** 
+
+Having a closed loop culture is especially useful in team meetings. It’s training your team to make a habit of asking closed loop questions like these:
+- Who is capturing this?
+- Who is owning this?
+- Who else needs to be involved?
+- What needs to be done?
+- When does this need to get done?
+
+Not only does a closed loop culture mean there’s shared accountability, it also saves the entire team time and frustration trying to remember who was responsible for what and when.
+
+### Focus
 
 ### Improve on Productivity
 
@@ -747,6 +775,12 @@ Manage your own and the team's workload and energy levels to maximize outputs, q
 **Knowing how to harness more productive ways of working is essential for all managers**
 
 Apply tested time management hacks, be aware of your impact on others, learn how to communicate priorities to your team and recognize how to optimize broken processes to strengthen skills in this area.
+
+#### 🗺️ 
+
+| Title | Description |
+| :---:         |          :--- |
+|**Focusing on what's most important**|<ul><p> ➡️ **Use the Three Big Rocks approach to prioritize and get things done.**</p><p>Stephen Covey coined the Three Big Rocks approach, as a way to prioritize, and create an easy way to make progress towards the major things you want to accomplish this year. An example of a big rock could be launching a new product line, overhauling a process, hiring a new department lead, and even improving your own health and wellbeing.</p><p>Imagine your week is divided into seven buckets. If you fill each one up with little pebbles, grains of sand and whatever else comes your way without planning ahead, there will be no room for the "big rocks" (your priorities). Your buckets fill up faster than you know it, and once your buckets are full, you’re done. You can’t get bigger buckets. Often, these big rocks can get pushed back from week to week because we never have time to do them - our days fill up too quickly. To avoid this, it helps to get the important stuff done first.</p><p>If you are struggling to achieve the things that are most important:</p><li>Name your Three Big Rocks.</li><li>At the beginning of each week reflect on why you'll be proud to achieve them.</li><li>Block out time in your diary with things you can do towards achieving them, like a meeting, attending an event, writing a memo, delegating a task or reflective thinking.</li><li>Chip away at them each week and include stakeholders when necessary.</li></ul>|
 
 | Title | Description |
 | :---:         |          :--- |
@@ -759,7 +793,7 @@ Apply tested time management hacks, be aware of your impact on others, learn how
 |**Sharpen the saw**|<ul><p> ➡️ Take time between tasks to re-charge and re-fuel for long-term productivity</p><p>**Sharpen the saw is a well-told comparison between two men that were both cutting down trees for a living, one worked for just under an hour and stopped to take a drink and have something to eat, and sharpen his saw.**</p><p>The other didn't stop and worked tirelessly all day long. Who cut down the most trees? Taking time between tasks to re-charge and re-fuel makes you more productive in the long-term.</p><p>_Why?_</p><p>We are most productive in 20, 50, 90 min bursts, taking a 5-10 min break and time to re-focus on next task.</p><p>**Instructions**</p><li>Don't try to maintain high energy through the entire day without stopping, break it down into sessions and down time between meetings and tasks.</li><li>Use the transition time to prepare for what is next, have a drink or food, or 5 minutes to relax.</li><li>Requires you to have discipline to stick to working this way and also to schedule your time and tasks as such.</li></ul>|
 |**Team Meeting Tempo**|<ul><p> ➡️ Simple practices for more effective meetings</p><p>If everyone involved can apply more discipline to their behaviour in meetings, the team will have better discussions and finish on time.</p><p>[Practices include:](https://www.blurb.com/b/7693002-team-tempo)</p><li>**_Trim the attendee list:_** the more people in a room, the less time each person has to talk, so keep it to the essential players. To keep people informed (and from feeling left out) send out notes afterwards</li><li>**_Stay on task:_** start and end meetings on time, and schedule meetings for 25, 50 or 80 minutes to give people transit time.</li><li>**_Put away devices:_** if you're not present in the meeting, why are you in the meeting?</li><li>**_Stick to the meeting's purpose:_** identify upfront the goal of the meeting: is it a status update, a decision-making meeting, a brainstorming session? Then stick to that goal, it's frustrating to be in a status meeting that suddenly turns into a brainstorm if you're not involved in that project</li><li>**_Choose a Facilitator and a Recorder:_** the Facilitator is responsible for keeping the meeting on time and topic, but they can't do their job unless all attendees give up some power. The Recorder captures notes, not meeting minutes, but decisions made and next steps.</li><p>_Why?_</p><p>People complain about meetings, but the truth is, in today's collaborative work environment, meetings are how work gets done. Implementing a few simple rules will lead to better discussions, ultimately energizing your team and setting a tempo to your meetings that people want to be part of.</p><p>**Instructions**</p><p>Spend 15 minutes before setting up a meeting to plan:</p><li>Send out the invite with a clear purpose</li><li>Write out your introduction to the meeting to let attendees know the purpose, why their input is valuable, and assign roles and responsibilities.</li></ul>|
 |**Email response policies**|<ul><p> ➡️ Clarity around email response expectations</p><p>**Provide clear expectations on when work activity is appropriate after standard work hours, by offering [clarity on email response expectations](https://www.fastcompany.com/3058066/what-is-an-appropriate-response-time-to-email).**</p><p>Instead of instituting a ban on emails after work hours, develop clear policies around when someone is expected to respond to an email (or other communication).</p><p>_Why?_</p><p>Having policies about response expectations ensures everyone is on the same page. It also doesn't inhibit employees from sending ideas/ requests outside of normal hours - there is just no expectation that a response will occur until the following work day.</p><p>**Instructions**</p><p>Within your team, determine what the current norms are for sending and receiving emails and messages.</p><li>Discuss what hours employees would like to be 'no response required' times.</li><li>Discuss how this works with people remotely / when travelling / in other time zones.</li><li>Discuss other approaches, like waiting to push 'send' until standard business hours.</li></ul>|
-|** **|<ul><p> ➡️ </p><p> </p><p> </p><p>_Why?_</p><p> </p><p>**Instructions**</p></ul>|
+|**Planning your day**|<ul><p> ➡️ Spend 15 minutes the day prior to plan your next working day</p><p>This includes confirming meetings with others and being on top of your calendar to ensure no meetings are missed and time is allocated in your day to perform tasks, e.g. block out time to assign to a specific project part.</p><p>_Why?_</p><p>This ability to pre-plan will feel like you're in control of the day ahead, and a pro tip is to do the same on a Friday for the week ahead to map out your time well spent.</p><p>**Instructions**</p><p>Spend 15 minutes near 3pm in the afternoon to map out the next day, prioritize any immediate deadlines and re-allocate time to work on tasks and attend meetings.</p></ul>|
 
 ## Coaching skills
 
@@ -964,6 +998,26 @@ _“Since we only have 10 minutes left and this is our chance to make a decision
 
 _“It looks like some of us are coming up with ideas and some of us are evaluating them, so we’re not making progress. Let’s defer judgement for this meeting, then we can look at pros and cons of each idea next week.”_
 
+## 1 on 1 meetings
+
+<img src="" width="900" height="100">
+
+### Improve on 1 on 1 meetings
+
+Learn how to have regularly scheduled meetings with your direct report to offer guidance, support, feedback and bounce ideas that contribute to their growth and build a strong working relationship.
+
+**1 on 1 meetings are an important part of every managers relationship with their team member**
+
+They’re a designated place for you to exercise your most important manager skills, have meaningful conversations and to deepen your connection with your direct reports.
+
+#### 🗺️ 
+
+| Title | Description |
+| :---:         |          :--- |
+
+| Title | Description |
+| :---:         |          :--- |
+
 --------------------------------------------------------
 
 # Tools
@@ -977,6 +1031,7 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 |[miro](https://miro.com/)|Miro's infinitely zoomable canvas and web whiteboard enables you to work the way you want to. Unleash your creativity, plan projects from all angles, and create|
 |[MindMeister](https://www.mindmeister.com/)|MindMeister is an online mind mapping application that allows its users to visualize, share and present their thoughts via the cloud.|
 |[app.diagrams.net](https://app.diagrams.net/)|Create diagrams and online mind mapping application that allows its users to visualize, share and present their thoughts via the cloud.|
+|[Figma](https://www.figma.com)|Figma connects everyone in the design process so teams can deliver better products, faster.|
 
 # Web Resources
 
