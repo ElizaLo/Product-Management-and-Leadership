@@ -347,6 +347,7 @@ Quality feedback speeds up learning, improves collaboration and increases engage
 
 | Title | Description |
 | :---:         |          :--- |
+|**Communicating feedback that is meaningful**|<ul><p>**Prepare your feedback to make difficult conversations easier and help your direct reports develop quickly.**</p><p>Research from LifeLabs Learning found that great managers give more frequent and more useful feedback than average – including positive and critical feedback. Using a [Feedback Prep Grid](https://github.com/ElizaLo/Product-Management-and-Leadership/blob/main/FeedBack/LifeLabs%2BLearning%2BFeedback%2BGrid.pdf) will enable you to plan out your feedback and then deliver your it in a way that's brain-friendly and actionable.</p></ul><ol><li>**_Micro-yes:_** get buy-in and prepare the individual for the conversation. For example, "Can I share feedback with you about X?"</li><li>**_Data:_** provide a specific data point. For example, "I noticed yesterday that you did X."</li><li>**_Impact:_** explain the impact on you or others. For example, "I mention it because as a result, Y happened."</li></ol>|
 
 | Title | Description |
 | :---:         |          :--- |
@@ -550,6 +551,7 @@ Developing this type of thinking depends on focusing on trends, challenging the 
 
 | Title | Description |
 | :---:         |          :--- |
+|**Practicing the basics of strategic thinking**|<ul><p>**A critical step to being strategic is the ability to manage your own biases.**</p><p>Being strategic encourages you to develop critical thinking skills that allow you to be self-aware and question your own assumptions or ideas. Noticing and accepting that your thoughts and ideas aren't always the best solution is crucial. Once you do this, you'll find that you're more open to verifying facts, listening to new opinions and developing the best-solution approach with your team.</p><p>Begin by asking yourself:</p><li>What do I believe to be 'true' about this situation/ process/ person? e.g. changing the way we do things will upset the team, so we keep it the same.</li><li>How does my perspective help the situation? e.g. the team is efficient and hitting their quarterly targets.</li><li>How does my perspective hinder the situation? e.g. limits the room for growth, keeps things the same, disempowers people.</li><li>What alternatives could I consider? e.g. changing the way we do things can be consulted with the team for input.</li><li>How would that change the outcome we're after? e.g. consult with the team on impact of 'one improvement' to their way of working to make it better.</li></ul>|
 
 | Title | Description |
 | :---:         |          :--- |
@@ -766,7 +768,40 @@ Having a closed loop culture is especially useful in team meetings. It’s train
 
 Not only does a closed loop culture mean there’s shared accountability, it also saves the entire team time and frustration trying to remember who was responsible for what and when.
 
+
 ### Focus
+
+**What is self-interruption?**
+
+A self-interruption is a turn away from your workflow. This means things like checking email, texts, social media, starting new projects or getting a snack.
+
+The result? Interruptions increase stress, errors and frustration. This leads to wasted time and worse performance.
+
+How can you help your team reduce interruptions?
+
+**Co-create ‘if-thens’**
+
+One solution to reduce internal and external distractions is to anticipate them in advance and create rules. These rules help you make your best intentions happen and automate your behavior. We call them simply: ‘if-thens’.
+
+Here’s how if-thens work.
+
+1. Think of a distraction you want to avoid (for example, too many emails)
+2. Select a behavior to counter it (batch processing emails)
+3. Find an ‘environmental prompt’ (an action, time or place) to trigger the desired behavior. For example, if it’s 12pm, then I will batch process my emails for a half hour.
+
+Instead of deciding in that moment how to handle a distraction, use your pre-programmed if-then to guide your actions.
+
+**Here’s some examples:**
+
+- **Distraction:** Social media
+    - **If:** Open laptop in the morning
+    - **Then:** Write down my MITs
+- **Distraction:** Someone asks a quick question
+    - **If:** Question is complicated
+    - **Then:** Schedule a later time to discuss
+- **Distraction:** Email notifications
+    - **If:** Need to focus
+    - **Then:** Turn off alert
 
 ### Improve on Productivity
 
@@ -1000,7 +1035,7 @@ _“It looks like some of us are coming up with ideas and some of us are evaluat
 
 ## 1 on 1 meetings
 
-<img src="" width="900" height="100">
+<img src="https://github.com/ElizaLo/Product-Management-and-Leadership/blob/main/img/1_on_1_meeting.png" width="900" height="100">
 
 ### Improve on 1 on 1 meetings
 
