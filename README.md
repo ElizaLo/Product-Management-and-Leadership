@@ -803,6 +803,16 @@ Instead of deciding in that moment how to handle a distraction, use your pre-pro
     - **If:** Need to focus
     - **Then:** Turn off alert
 
+#### Pomodoro technique
+
+The tool’s name is the Italian word for tomato, and comes from its creator, Francesco Cirillo. It’s based on a tomato-shaped kitchen timer he used to stay focused on his work as a university student.
+
+The Pomodoro technique means working within strict time limits. Here’s how it works.
+
+- If the Pomodoro starts, then spend 25 minutes focused on a task.
+- If 25 minutes pass, then take a mandatory five-minute break.
+- If you get interrupted (or interrupt yourself), then you have to start over.
+
 ### Improve on Productivity
 
 Manage your own and the team's workload and energy levels to maximize outputs, quality delivery and personal wellbeing.
