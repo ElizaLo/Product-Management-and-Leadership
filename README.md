@@ -813,6 +813,20 @@ The Pomodoro technique means working within strict time limits. Here’s how it 
 - If 25 minutes pass, then take a mandatory five-minute break.
 - If you get interrupted (or interrupt yourself), then you have to start over.
 
+#### Kanban
+
+This final productivity tool is great for helping your team improve focus, and can also improve time awareness, prioritization, and organization.
+
+It’s a multifaceted tool that takes its name from the Japanese word for ‘sign’ (kanban). The Kanban system comes from the world of Toyota car manufacturing, where managers introduced visual signs to increase production efficiency.
+
+<img src="https://github.com/ElizaLo/Product-Management-and-Leadership/blob/main/img/Kanban.png" width="313" height="281">
+
+Kanban is a scheduling system that tracks the progress and ownership of tasks by moving cards through a series of columns.
+
+- Each task is represented on a card. Cards start their journey in the ‘backlog’ (or ‘to do’) column.
+- When you’re ready to begin working on a task, you move that card to the ‘doing’ column.
+- This simple action is at the heart of the Kanban System’s ability to generate focus. It’s an explicit agreement between you and your brain about the task you’ll be working on until you’re ready to move it into the glorious ‘done’ column.
+
 ### Improve on Productivity
 
 Manage your own and the team's workload and energy levels to maximize outputs, quality delivery and personal wellbeing.
