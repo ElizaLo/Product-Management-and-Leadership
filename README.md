@@ -216,6 +216,24 @@ Examples of her day-to-day role as the VP of Product, including:
 
 -------------------------------------
 
+# Project Management
+
+## Project Management Lifecycle
+
+### 📃 Articles
+
+- [5 Phases of Project Management – A Complete Breakdown](https://kissflow.com/project/five-phases-of-project-management/)
+- [4 Phases of the Project Management Lifecycle Explained](https://www.coursera.org/articles/project-management-lifecycle)
+
+## Project Initiation
+
+### 📃 Articles
+
+- [Project initiation: The first step to successful project management](https://asana.com/ru/resources/project-initiation)
+- [Project Initiation: A Guide to Starting a Project the Right Way](https://kissflow.com/project/project-initiation/)
+
+-------------------------------------
+
 # Technical Manager
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Technical_Manager.png" width="900" height="100">
