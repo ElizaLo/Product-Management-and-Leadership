@@ -244,6 +244,10 @@ Examples of her day-to-day role as the VP of Product, including:
 |[Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)|A list of engineering manager resource links.|
 |[awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management)|Pointers and tools for learning and day-to-day practice of engineering management & leadership.|
 
+## Building diagrams, flows and charts
+
+- [diagrams.net](https://www.diagrams.net)
+
 ## Project Management 
 
 - [Project management for non-project managers](https://www.atlassian.com/ru/project-management)
