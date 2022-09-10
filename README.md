@@ -244,9 +244,21 @@ Examples of her day-to-day role as the VP of Product, including:
 |[Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)|A list of engineering manager resource links.|
 |[awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management)|Pointers and tools for learning and day-to-day practice of engineering management & leadership.|
 
-## Building diagrams, flows and charts
+## 📊 Building diagrams, flows and charts
 
-- [diagrams.net](https://www.diagrams.net)
+- [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/?nc1=h_ls) - The official AWS icon set for building architecture diagrams
+
+
+
+- [diagrams.net](https://www.diagrams.net) - Diagram Software and Flowchart Maker
+    - [Fapp.diagrams.net](https://app.diagrams.net/) - Flowchart Maker & Online Diagram Software
+- [Cloudcraft](https://www.cloudcraft.co/) - Cloudcraft – Draw AWS diagrams
+- [Creately](https://creately.com/lp/draw-aws-diagrams-online/) - AWS Architecture Diagram Tool | Draw AWS Diagrams
+- [SketchBoard](https://sketchboard.io/draw-aws-architectural-diagrams-online) - Draw AWS Architecture Diagrams Online
+- [SmartDraw](https://www.smartdraw.com/flowchart/flowchart-maker.htm) - Easy Flowchart Maker | Free Online Flow Chart Creator & Software
+- [Miro](https://miro.com/) - The Visual Collaboration Platform for Every Team
+- [Figma](https://www.figma.com/design/) - Design, prototype, and gather feedback all in one place with Figma
+- [Canva | Flowcharts](https://www.canva.com/graphs/flowcharts/) - Free Flowchart Maker - Create Flowcharts Online
 
 ## Project Management 
 
