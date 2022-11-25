@@ -22,7 +22,7 @@
 ### Free stuff 
 
 - Go to Lewis C. Lin’s website: [90 Product Manager Interview Questions](https://www.impactinterview.com/2017/01/big-list-90-product-manager-interview-questions/)
-- Jackie Bavaro’s Quora page: [‘The Art of Product Management’](https://www.theinformation.com/subscribers-say-sequoia-benchmark-are-valleys-top-vc-firm?shared=585c19fe0f211fd2)
+- Jackie Bavaro’s Quora page: [‘The Art of Product Management’](https://theartofproductmanagement.quora.com/)
 - Go to Stellar Peers: a community platform that helps you prepare for interviews. They have [sample questions and answers](http://stellarpeers.com/) on their site.
 - Go to [thepminterview.com](http://thepminterview.com/) to practice some of the above questions and answers with a timer.
 - [Interview Preparation](https://medium.com/open-product-management/interview-prep/home)
