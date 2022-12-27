@@ -275,6 +275,8 @@ Examples of her day-to-day role as the VP of Product, including:
     - [Accidental Diminisher Quiz](https://thewisemangroup.com/quiz/)
 - [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) by Reed Hasting and Erin Meyer
 - [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/B0787F5CRM/ref=sr_1_1?crid=2VPHIGK9QMUVG&dchild=1&keywords=patty+mccord+powerful&qid=1633005177&sprefix=patty+mc%2Cstripbooks-intl-ship%2C274&sr=8-1) by Patty McCord
+- [Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life](https://www.amazon.com/Think-Like-Rocket-Scientist-Strategies/dp/1541762592?tag=outatime056-20&geniuslink=true) by Ozan Varol
+    - [ozanvarol.com](https://ozanvarol.com)
 
 ## Other good books
 
