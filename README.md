@@ -284,7 +284,7 @@ Examples of her day-to-day role as the VP of Product, including:
 
 
 -------------------------------------------
-# Soft-skills for Manager
+# Soft-skills for the Manager
 
 ## OKRs (Objectives and Key Results)
 
@@ -353,6 +353,81 @@ The OKR methodology distinguishes itself from other frameworks for setting goals
 - Objectives should be **ambitious**; inspirational targets tend to make people at all levels of your organization think bigger, such as stretch goals.
 - Key results should be **measurable**; giving company goals a finite endpoint allows businesses to accurately quantify progress when they reach a milestone.
 - OKRs should be **transparent**; visibility across organizations creates a sense of accountability, and gives teams context to make informed decisions.
+
+### 💠 A Step-by-Step Guide to Implementing OKRs
+
+**1. Designing an OKRs Program**
+
+Organizations must identify how they will configure OKRs in their [goal-setting system](https://lattice.com/goals) before launching so that they can design a process that suits their needs.
+
+🔹 **MISSION, VISION, & STRATEGY**
+
+Before implementing an OKR program, companies should clearly define the mission, vision, and business strategy that their OKRs can support. Your OKRs should be translated from your strategy, drive the achievement of your vision, and be in alignment with your overall mission.
+
+🔹 **OPERATIONS**
+
+A company’s business context should dictate its approach to goal-setting. Before establishing OKRs, companies should evaluate different aspects of their day-to-day operations, such as headcount, organizational structure, legacy processes, project management capabilities, and more.
+
+🔹 **SYNCHRONIZATION**
+
+If you’re introducing OKRs to your company for the first time, a best practice is to launch _without_ strict alignment and instead focus on **directional alignment**. Dependencies increase the likelihood of bottlenecks, so we recommend that companies avoid making things complicated.
+
+🔹 **OWNERSHIP**
+
+When HR teams are the sole driving force behind implementing and managing OKRs, it sends the message to the rest of the organization that OKRs are an administrative process. In order for an OKRs plan rollout to be successful, it needs to have public [executive sponsorship](https://lattice.com/library/how-to-get-executive-buy-in-for-okrs-and-goal-setting).
+
+**2. Rolling Out Your OKRs Program**
+
+🔹 **EMPLOYEE INVOLVEMENT**
+
+While it might not be feasible to have every employee involved in every part of the OKR process, employees should be clear on **who** is responsible for setting and tracking OKRs at each level, **what** projects and metrics they should prioritize, **why** the organization is introducing a new goal-setting process, and **how** their work connects to the business as a whole.
+
+🔹 **WORKFORCE TRAINING**
+
+Goal setting is a learned rather than innate skill, so organizations need to provide proper guidance to employees on how to set quality OKRs. Team meetings and workshops (for executives, managers, and employees) are a great way to support newcomers to the OKR methodology and, in subsequent cycles, encourage alignment across the organization.
+
+🔹 **ORGANIZATION**
+
+For companies of all sizes, tracking OKRs can be a challenging process. Organizations like Google have built internal tools. Others use ad hoc methods like spreadsheets, and a growing number of companies are using dedicated [OKR software](https://lattice.com/goals) to keep company goals transparent and quantifiable.
+
+**3. Administering OKRs**
+
+🔹 **GRADING OKRs**
+
+Grading is the process by which organizations objectively evaluate performance on OKRs. OKRs are graded on a scale between 0.0 to 1.0, as pictured below. Each key result is graded, and the average of the key results is used to create the grade for each corresponding objective.
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Grading_OKRs.png" width="616" height="141"/>
+
+If you’re getting a perfect score on your OKRs all the time, that’s a sign you should be setting more ambitious goals. Likewise, if you’re consistently scoring below 0.3 on your goals, they’re probably too aspirational. OKRs shouldn’t be moonshots — consistently underperforming means it might be time to [readjust your objectives and key results](https://lattice.com/library/how-and-when-to-revisit-your-goals).
+
+🔹 **SHARING PROGRESS**
+
+OKR recap meetings are essential. At the beginning of every quarter, all levels of your organization should get together and discuss how they measured up to the OKRs set at the beginning of the previous goal cycle. Direct reports and managers should integrate OKRs into their [one-on-one meetings](https://lattice.com/one-on-ones).
+
+🔹 **INTEGRATING LEARNINGS**
+
+While grading is about objective measurement, learning is about contextualizing successes and shortcomings within a given OKR cycle to achieve better results moving forward. Evaluation of OKRs should happen regularly, but each cycle should also be capped by a retrospective conversation on what went well, what didn’t go well, and what learnings can be applied to the next quarter’s roadmap.
+
+### ❓FAQ
+
+- _**Should OKRs focus on output or outcomes?**_
+
+The purpose of OKRs is to redirect focus away from output and towards **outcomes**. The key difference between these two mindsets is that outcomes focus on _**what**_ was achieved, whereas output focuses on _**how**_ things are achieved.
+
+- _**How should OKRs be used in performance reviews?**_
+
+Ultimately, this is a personal decision that every leadership team has to make for their own company. But regardless of what you decide, OKRs are not synonymous with employee performance evaluations, and companies who intend to connect OKRs to performance shouldn’t do so in isolation. Rather, they should be integrating OKRs into a full review of all [performance management](https://lattice.com/library/a-blueprint-for-performance-management) aspects.
+
+### 💭 Conclusions 
+
+The OKRs framework is a powerful management tool for helping businesses define broader goals and the quantifiable actions that support them. Here are some final tips for getting OKRs to work for your company:
+
+- Keep your OKRs **flexible**. Don’t obsess over alignment between levels.
+- Use learnings from old OKRs to **iterate** and create new OKRs.
+- Highlight **executive sponsorship** when rolling out OKRs plans.
+- Set OKRs frequently –– ideally **quarterly** but at least every six months.
+- Ensure OKRs are **ambitious, measurable, and transparent**.
+- **Leverage tools** that make tracking OKRs easier and top-of-mind.
 
 ### 📰 Articles
 
@@ -437,7 +512,7 @@ Focusing on 1 or 2 feedback areas at a time will give them space to absorb it an
 If you're unsure about what feedback will be most impactful, just ask! For example, before giving feedback on a document, you might ask:
 _"Are you looking for feedback on the strategic direction? Or more on spelling and grammar?"_
 
-### Conclusions 
+### 💭 Conclusions 
 
 - Communicating data-driven feedback to reinforce or redirect behavior
 - Separating the person from the problem to increase openness
