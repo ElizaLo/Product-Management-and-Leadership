@@ -286,6 +286,79 @@ Examples of her day-to-day role as the VP of Product, including:
 -------------------------------------------
 # Soft-skills for Manager
 
+## OKRs (Objectives and Key Results)
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/OKRs.png" width="900" height="100">
+
+OKRs (or objectives and key results) can be used to create accountability, transparency, and alignment within their organizations.
+
+As a core component of any performance management plan, goal setting helps businesses overcome the challenges of scaling their workforces. OKRs are a popular goal-setting framework that businesses use to define and measure progress across different levels within the organization. When used effectively, OKRs spark innovation, unite teams, and create a clear path for taking companies to the next level.
+
+While there have been a number of [goal-setting frameworks](https://lattice.com/templates-topics/goal-setting) throughout history such as SMART goals, OKRs were first introduced at Intel by management scientist Andy Grove and later popularized by Google in the late 1990s. Today, OKRs power thousands of organizations from Spotify and Amazon to the United States Navy.
+
+**How OKRs Drive Business Results**
+
+OKRs help businesses [manage performance](https://lattice.com/performance) in five core ways:
+
+- **Alignment:** OKRs get everyone on the same page around what teams are doing, why they’re doing it, and how their work moves the organization forward.
+- **Prioritization:** OKRs bridge the gap between long term goals and the daily work necessary to achieve them. This empowers employees to prioritize day-to-day tasks and long-term initiatives.
+- **Transparency:** OKRs foster [transparent company cultures](https://lattice.com/webinar/transparency-matters-how-to-build-a-culture-of-trust-in-your-organization) by informing everyone of the impact and priorities of teams and individuals across the organization, top-down from the CEO to the intern.
+- **Accountability:** OKRs create ownership of performance expectations and remove any room for gray areas as to who’s responsible for meeting specific goals.‍
+- **Empowerment:** OKRs show employees the impact of their work and give them a sense of ownership over their progress.
+
+As a proven [goal-setting](https://lattice.com/library/tip-for-making-goal-setting-work) framework for companies of all sizes, OKRs are effective because of their basic structure and practical application. 
+
+OKRs divide goals into achievements and the actions that support them. They are structured around two fundamental questions:
+
+### 💠 Structure
+
+OKRs divide goals into achievements and the actions that support them. They are structured around two fundamental questions:
+
+- _**Objective:** Where do I want to go?_
+
+The Objective is the goal of the entire organization, team, or individual. Objectives are typically qualitative and set the direction for what every level of the business wants to achieve in a certain amount of time.
+
+- _**Key Result:** How will I get there?_
+
+Key Results (KRs) are the [measurable](https://lattice.com/library/3-strategies-for-measuring-the-roi-of-hr) outcomes that need to be achieved in order to meet the objective –– somewhat like a “to-do list” for accomplishing an overall goal. KRs help [track progress](https://lattice.com/library/how-to-monitor-and-measure-an-employee-growth-plans-progress) and are generally metrics-driven, using the team’s key performance indicators.
+
+### 💠 Application
+
+The main benefits of OKRs are largely based on the way they are put into practice and applied across organizations.
+
+🔹 **Organizational levels**
+
+Individual and team goals should be connected via measurable key results to high-level company objectives. This interplay of business goals boosts [employee engagement](https://lattice.com/library/how-performance-management-boosts-engagement) and creates overall business alignment.
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Organizational%20levels.png" width="559" height="561"/>
+
+🔹 **Alignment**
+
+Every company should aim for OKR alignment between organizational and team levels, but there are two different approaches companies can take to achieving it:
+
+- **Strict alignment:** In this approach, key results translate directly into the objectives of the level below them. 
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Strict_alignment.png" width="732" height="577"/>
+
+- **Directional alignment:** In this more flexible approach, organizations establish objectives that feed into the key results of higher levels but don’t mirror them exactly.
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Directional_alignment.png" width="683" height="567"/>
+
+### 💠 Qualities of a Successful OKR
+
+The OKR methodology distinguishes itself from other frameworks for setting goals with its unique approach to blending both ambition and practicality. It’s also designed to encourage company, team, and individual-level transparency and accountability.
+
+<img src="https://raw.githubusercontent.com/ElizaLo/Product-Management-and-Leadership/main/img/Successful_OKR.png" width="475" height="402"/>
+
+- Objectives should be **ambitious**; inspirational targets tend to make people at all levels of your organization think bigger, such as stretch goals.
+- Key results should be **measurable**; giving company goals a finite endpoint allows businesses to accurately quantify progress when they reach a milestone.
+- OKRs should be **transparent**; visibility across organizations creates a sense of accountability, and gives teams context to make informed decisions.
+
+### 📰 Articles
+
+- [What is an OKR?](https://lattice.com/webinar/what-is-an-okr)
+- [Here’s Everything You Need to Know About OKRs](https://lattice.com/library/okr-101)
+
 ## Essential Feedback
 
 <img src="https://raw.githubusercontent.com/ElizaLo/Product-Management/main/img/feedback.png" width="900" height="100">
@@ -1145,6 +1218,7 @@ They’re a designated place for you to exercise your most important manager ski
 |[Trello Blog](https://blog.trello.com)|Helping teams work better, together|
 |[Radical Candor](https://www.radicalcandor.com)|Based on the bestselling book Radical Candor that launched a global management revolution, our suite of products and services are designed to level up your skills, fix your feedback fails and support your Radical Candor journey.|
 |[FutureThink](https://www.futurethink.com)|Accelerated Skill-Building|
+|[Lattice](https://lattice.com)|The leading people success platform|
 
 ## GitHub Repositories :octocat:
 
