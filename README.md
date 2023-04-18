@@ -433,6 +433,7 @@ The OKRs framework is a powerful management tool for helping businesses define b
 
 - [What is an OKR?](https://lattice.com/webinar/what-is-an-okr)
 - [Here’s Everything You Need to Know About OKRs](https://lattice.com/library/okr-101)
+- [4 Tips for Making Goal Setting Work](https://lattice.com/library/tip-for-making-goal-setting-work)
 
 ## Essential Feedback
 
