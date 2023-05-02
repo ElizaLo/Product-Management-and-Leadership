@@ -453,6 +453,77 @@ Alternatively, **redirecting feedback** encourages someone to adopt a new behavi
 
 In both cases, the focus is to help a person to thrive. Criticism on its own is not feedback.
 
+### Request a feedback
+
+When requesting feedback, it's important to keep a few things in mind:
+
+- **Be specific:** Be clear about what you're looking for feedback on. Whether it's your own performance or someone else's, provide specific prompts and questions that will help guide the conversation. 
+> Clearly communicate what area or aspect you would like feedback on. This helps the person providing feedback to focus their response and provide more meaningful insights.
+- **Provide context:** Give some background information about the project, the goals, and any challenges faced. This helps the person providing feedback to understand the context and provide relevant feedback.
+- **Seek constructive feedback:** Request feedback that is actionable and specific. Ask for suggestions on how you can improve or areas where you can grow. This helps you to identify areas of strength and areas that need improvement.
+- **Be open-minded:** Feedback can be difficult to hear, especially if it's critical. However, it's important to approach feedback with an open mind and a willingness to learn and improve.
+- **Create a safe space:** Make sure the person you're requesting feedback from feels comfortable sharing their honest thoughts and opinions. Create a safe and supportive environment where they can provide constructive feedback without fear of repercussions.
+> Create a safe and non-judgmental environment where the person giving feedback feels comfortable sharing their honest opinions. Avoid becoming defensive or dismissive of the feedback you receive. Remember, feedback is an opportunity for growth and improvement.
+- **Ask open-ended questions:** Encourage detailed and thoughtful responses by asking open-ended questions that require more than a simple "yes" or "no" answer. This allows the person providing feedback to share their thoughts and insights more fully.
+- **Listen actively:** When receiving feedback, actively listen to what the person is saying. Avoid getting defensive or making excuses, and instead focus on understanding their perspective.
+- **Take action:** After receiving feedback, take time to reflect on what you've heard and think about how you can use it to improve. Consider creating an action plan to address any areas of improvement that were identified.
+- **Say thank you:** Finally, remember to thank the person for their feedback. Let them know that their thoughts and opinions are valued and that you appreciate their willingness to share them with you.
+- **Be grateful and show appreciation:** Acknowledge and appreciate the time and effort the person is taking to provide feedback. Express your gratitude for their input, regardless of whether the feedback is positive or critical.
+- **Follow up:** If there are specific actions you plan to take based on the feedback received, consider sharing that with the person who provided the feedback. This demonstrates your commitment to learning and improvement.
+
+Remember, the goal of feedback is to learn and grow, so approach it with an open mind and a willingness to embrace both positive and constructive criticism.
+
+🔸 **From Engineering Manager perspective:**
+
+1. What did you enjoy most about working on this project?
+2. What were the biggest challenges you faced while working on this project, and how did you overcome them?
+3. How do you feel about the project overall? Are you proud of the work you did?
+4. What did you think of the project timeline? Was it realistic, or did you feel that it was too rushed or too slow?
+5. Were there any communication issues during the project? If so, how do you think we could improve communication in the future?
+6. What was your favorite feature that you worked on in the project?
+7. Is there anything you would have done differently if you had the chance to do the project over again?
+8. Did you feel that you had all the resources you needed to complete your tasks successfully?
+9. How would you rate the quality of the work you and the team delivered on this project?
+10. Finally, do you have any feedback for me as your engineering manager or for the rest of the team?
+
+🔸 **For Manager:**
+
+1. How would you describe my communication style during this project? Was I clear and effective in communicating expectations and feedback?
+2. Did I provide you with the support and resources you needed to complete your tasks effectively? If not, what could I have done better?
+3. What do you think were my strengths as a manager during this project?
+4. What areas do you think I could improve on as a manager? Do you have any suggestions for how I can improve in those areas?
+5. Did you feel comfortable coming to me with any concerns or issues you had during the project?
+6. Was I approachable and supportive when you came to me with concerns or issues?
+7. Did you feel that I was able to provide you with clear direction and guidance when needed?
+8. Did I foster a positive and collaborative team environment? If not, how could I have improved in that area?
+9. Did I recognize and appreciate your contributions to the project? If not, how could I have done better?
+
+🔸 **For Data Scientist/ML Engineer from Software Engineer:**
+
+1. What are some areas where you think I excelled during the project?
+2. What are some areas where you think I could improve in my work as a data scientist/machine learning engineer?
+3. Were my communication skills effective and clear during our interactions?
+4. Were there any times during the project where you felt I could have been more proactive or taken more initiative?
+5. Were my deliverables on time and of high quality?
+6. Did I work effectively as part of the team, and were there any issues with collaboration or teamwork?
+7. Did I provide sufficient documentation for my work?
+8. Were there any challenges or obstacles that I encountered during the project, and how did I handle them?
+9. Did I show a good understanding of the business context and goals of the project?
+10. How would you describe my overall performance as a data scientist/machine learning engineer on this project?
+
+🔸 **For Data Scientist/ML Engineer from Software Engineer and from Manager perspective:**
+
+1. How effective was the data scientist in providing you with the data and insights you needed to complete your work on the project?
+2. Were the data scientist's contributions to the project valuable? If so, can you provide some examples of how their work helped the project succeed?
+3. Did the data scientist collaborate well with you and the rest of the team?
+4. Were the data scientist's analyses and conclusions well-supported by the data? Were there any issues with their approach to data analysis that you noticed?
+5. Were there any challenges you faced as a software engineer that the data scientist was able to help you overcome? If so, how did they help you?
+6. Were there any areas where you feel the data scientist could have improved in their work on the project? If so, can you provide some specific feedback on how they could have improved?
+7. Did the data scientist communicate effectively with you and the rest of the team? Were there any areas where their communication could have been improved?
+8. Did you feel that the data scientist was able to adapt to changing project requirements or priorities as needed?
+9. Did the data scientist show a willingness to learn and grow throughout the project?
+10. Finally, is there any additional feedback you have for the data scientist that could help them grow and improve as a data scientist?
+
 ### Tips for positive feedback.
 
 Whether your feedback is reinforcing or redirecting, your focus should be on helping a person to improve. To do that it is important to ask yourself:
