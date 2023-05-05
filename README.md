@@ -1333,6 +1333,14 @@ They’re a designated place for you to exercise your most important manager ski
 | Title | Description |
 | :---:         |          :--- |
 
+## Support
+
+### 🎓 Courses
+
+| Title | Description |
+| :---:         |          :--- |
+|[Be There Certificate](https://betherecertificate.org)|Learn to support someone struggling with their mental health through this online course created by Jack.org in partnership with Born This Way Foundation.|
+
 --------------------------------------------------------
 
 # Tools
